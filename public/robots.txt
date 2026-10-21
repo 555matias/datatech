@@ -1,3 +1,6 @@
+# Datatech welcomes search engines and AI answer engines.
+# Search and citation crawlers (Googlebot, Bingbot, OAI-SearchBot, Claude-SearchBot,
+# PerplexityBot, Applebot, DuckAssistBot) are covered by the rule below.
 User-agent: *
 Allow: /
 

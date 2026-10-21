@@ -1,0 +1,41 @@
+# Datatech S.A.
+
+> Empresa argentina de software de gestión para instituciones de salud. Fundada en 1978 en Buenos Aires y dedicada exclusivamente a la salud desde 1987. Desarrolla sistemas para hospitales y sanatorios, laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga, y presta servicios de implementación, capacitación, soporte y desarrollo. Más de 600 establecimientos asistenciales usan sus sistemas. Sistema de gestión de la calidad certificado por IRAM bajo la norma IRAM-ISO 9001:2015.
+
+No confundir con otras empresas llamadas Datatech de otros países o rubros: esta es Datatech S.A., de Buenos Aires, Argentina, especializada en software para salud.
+
+Contacto: Av. Córdoba 1184, 5º piso (C1055AAO), Ciudad Autónoma de Buenos Aires, Argentina. Teléfono (54-11) 4374-1002. Sitio: https://www.datatech.com.ar/
+
+## Soluciones
+
+- [Soluciones de software de gestión en salud](https://www.datatech.com.ar/soluciones/): Software de gestión para hospitales, sanatorios, laboratorios, centros de diagnóstico y medicina prepaga. Compare qué incluye cada sistema Datatech.
+- [Software para centros de diagnóstico por imágenes](https://www.datatech.com.ar/soluciones/centros-de-diagnostico/): Software para centros de diagnóstico por imágenes: turnos, recepción, áreas técnicas, informes con imágenes y envío por e-mail, facturación y honorarios.
+- [Software para sanatorios, clínicas y hospitales](https://www.datatech.com.ar/soluciones/hospitales-y-sanatorios/): Sistema de gestión hospitalaria (HIS) para sanatorios y clínicas: internación y manejo de camas, turnos, historia clínica, facturación y honorarios médicos.
+- [Software para laboratorios de análisis clínicos](https://www.datatech.com.ar/soluciones/laboratorios/): Software para laboratorios de análisis clínicos (LIS): interfaces con autoanalizadores, informes por e-mail y facturación automática a obras sociales.
+- [Software para medicina prepaga y auditoría](https://www.datatech.com.ar/soluciones/medicina-prepaga/): Software para medicina prepaga: afiliación, coberturas, copagos y reintegros, elegibilidad del socio, auditoría de facturas de prestadores y odontológica.
+
+## Empresa y servicios
+
+- [Casos de clientes en instituciones de salud](https://www.datatech.com.ar/casos/): Experiencias de clientes de Datatech en sanatorios, clínicas y centros de diagnóstico: historia clínica electrónica, turnos web e implementación por fases.
+- [Contacto, demostración y cotización](https://www.datatech.com.ar/contacto/): Pida una demostración o cotización del software de gestión para sanatorios, clínicas, laboratorios, centros de diagnóstico y prepagas. Tel. (54-11) 4374-1002.
+- [La empresa: software de gestión para la salud](https://www.datatech.com.ar/empresa/): Datatech S.A., creada en 1978, desarrolla software para sanatorios, laboratorios, centros de diagnóstico y prepagas. Más de 600 establecimientos lo usan.
+- [Funcionalidades del sistema de gestión en salud](https://www.datatech.com.ar/funcionalidades/): Facturación a obras sociales y prepagas, liquidación de honorarios médicos, historia clínica electrónica, turnos e interfaces en los sistemas Datatech.
+- [Facturación a obras sociales y prepagas](https://www.datatech.com.ar/funcionalidades/facturacion-a-obras-sociales-y-prepagas/): Software de facturación a obras sociales y prepagas para sanatorios, clínicas, laboratorios y centros de diagnóstico, con cuentas corrientes y subdiarios.
+- [Historia clínica electrónica para sanatorios](https://www.datatech.com.ar/funcionalidades/historia-clinica-electronica/): Historia clínica electrónica para sanatorios y clínicas: consultas, internaciones, protocolos de laboratorio y estudios diagnósticos en el sistema Datatech.
+- [Software de liquidación de honorarios médicos](https://www.datatech.com.ar/funcionalidades/liquidacion-de-honorarios-medicos/): Liquidación de honorarios médicos en el mismo sistema que factura las prestaciones, para hospitales, sanatorios y centros de diagnóstico de Argentina.
+- [Turnos online y autoadmisión para clínicas](https://www.datatech.com.ar/funcionalidades/turnos-web-y-autoadmision/): Turnos y recepción de pacientes en sistemas Datatech para clínicas, sanatorios y centros de diagnóstico, y los turnos web y la autoadmisión de Clínica Bessone.
+- [Autorizaciones en línea e integraciones](https://www.datatech.com.ar/integraciones/): Interfaces de Datatech para prestadores de salud: autorizaciones en línea con prepagas, precios de medicamentos, equipos de laboratorio y contabilidad.
+- [Implementación de sistemas de gestión en salud](https://www.datatech.com.ar/servicios/): Implementación de sistemas de gestión en sanatorios, clínicas, laboratorios y prepagas: análisis, planeamiento, capacitación, soporte y desarrollos a medida.
+- [Calidad y certificación IRAM-ISO 9001:2015](https://www.datatech.com.ar/calidad/): Datatech S.A. tiene su sistema de gestión de la calidad certificado por IRAM bajo IRAM-ISO 9001:2015, registro 9000-2878. Alcance y política de la calidad.
+- [Trabaje con nosotros](https://www.datatech.com.ar/trabaje-con-nosotros/): Súmese al equipo de desarrollo de software para la salud de Datatech. Buscamos analistas programadores SQL, estudiantes o graduados junior de informática.
+
+## Guías
+
+- [Guías y recursos: sistemas de gestión en salud](https://www.datatech.com.ar/recursos/): Guías para directivos de sanatorios, clínicas y hospitales sobre qué es un sistema de gestión hospitalaria (HIS), cómo elegirlo y cómo implementarlo por etapas.
+- [Cómo elegir un sistema de gestión para sanatorios](https://www.datatech.com.ar/recursos/como-elegir-un-sistema-de-gestion-para-sanatorios/): Guía para directores de sanatorios y clínicas: qué evaluar en un sistema de gestión, qué preguntar a cada proveedor y qué errores evitar al elegir.
+- [Cómo implementar un sistema de gestión en salud](https://www.datatech.com.ar/recursos/como-implementar-un-sistema-de-gestion-en-salud/): Guía para implementar o migrar un sistema de gestión en sanatorios y clínicas: análisis, planeamiento, puesta en marcha por fases, capacitación y mantenimiento.
+- [Qué es un sistema de gestión hospitalaria (HIS)](https://www.datatech.com.ar/recursos/que-es-un-sistema-de-gestion-hospitalaria/): Qué es un sistema de gestión hospitalaria (HIS), qué módulos debe tener, qué circuitos conecta y en qué se diferencia de un LIS y de un sistema de diagnóstico.
+
+## Optional
+
+- [Versión completa en texto](https://www.datatech.com.ar/llms-full.txt): el contenido de todas las páginas en texto plano.

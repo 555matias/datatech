@@ -13,8 +13,12 @@
   "routes": [
     { "pattern": "datatech.matiasd.com", "custom_domain": true }
   ],
+  // worker.js only runs for the old ?Cod= addresses; every other request goes straight to the files.
+  "main": "worker.js",
   "assets": {
     "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": ["/producto_detalle.asp", "/novedades_detalle.asp"],
     "html_handling": "auto-trailing-slash",
     "not_found_handling": "404-page"
   }
