@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
       flow.classList.remove('is-pending');
       io.disconnect();
       setTimeout(() => parts.forEach((p) => { p.style.transitionDelay = ''; }), 2400);
-    }, { threshold: 0.35 });
+    }, { rootMargin: '0px 0px -15% 0px' });
     io.observe(flow);
   }
 

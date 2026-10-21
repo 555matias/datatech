@@ -91,7 +91,10 @@ button, input, select, textarea { font: inherit; color: inherit; }
 .actions { display: flex; flex-wrap: wrap; align-items: center; gap: 14px 28px; }
 
 /* ---------- header ---------- */
-.site-header { position: sticky; top: 0; z-index: 50; background: rgba(255, 255, 255, .92); backdrop-filter: saturate(1.4) blur(12px); -webkit-backdrop-filter: saturate(1.4) blur(12px); border-bottom: 1px solid transparent; transition: border-color .2s; }
+.site-header { position: sticky; top: 0; z-index: 50; border-bottom: 1px solid transparent; transition: border-color .2s; }
+/* The blur sits on a pseudo-element: backdrop-filter on the header itself would trap the fixed mobile menu inside it. */
+.site-header::before { content: ""; position: absolute; inset: 0; z-index: -1; background: rgba(255, 255, 255, .92); backdrop-filter: saturate(1.4) blur(12px); -webkit-backdrop-filter: saturate(1.4) blur(12px); }
+body.menu-open .site-header::before { background: var(--white); }
 .site-header.is-scrolled { border-bottom-color: var(--rule); }
 .header-row { display: flex; align-items: center; gap: 40px; height: var(--header-h); }
 .brand { flex: none; display: block; }
