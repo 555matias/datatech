@@ -450,5 +450,6 @@ body.menu-open .site-header::before { background: var(--white); }
 .info-row a.inline, .info-row p a { text-decoration: underline; }
 
 /* Per-photo focal points, so faces and screens survive the crop. */
-img.focus-75 { object-position: 75% 50%; }
-img.focus-80 { object-position: 80% 50%; }
+img.focus-25 { object-position: 25% 50%; }
+img.focus-30 { object-position: 30% 50%; }
+img.focus-62 { object-position: 62% 50%; }
