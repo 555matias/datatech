@@ -19,7 +19,7 @@ Software de gestión para salud · Desde 1978
 
 Hospitales, sanatorios, laboratorios, centros de diagnóstico y empresas de medicina prepaga resuelven con Datatech toda su operatoria diaria: turnos, internación, facturación, historia clínica y auditoría.
 
-Hablar con un especialista
+Solicitar una demostración
 Ver soluciones
 
 ## Módulos integrados
@@ -164,17 +164,17 @@ Alcance: prestación de servicios de capacitación, implementación y soporte t�
 
 ## Casos de clientes
 
-Sanatorios, clínicas y centros de diagnóstico que implementaron los sistemas Datatech en su operatoria diaria.
+Sanatorios, clínicas y centros de diagnóstico que trabajan con los sistemas Datatech en su operatoria diaria.
 
 Ver todos los casos
 
 Río Negro y Neuquén
 ### Fundación Médica de Río Negro y Neuquén
-Consolidó la información de sus tres unidades de negocio y centralizó la oficina de sistemas, con un tablero de comando que mostraba los ingresos de cada unidad.
+Consolidó la información de sus tres unidades de negocio y centralizó la oficina de sistemas, con un tablero de comando que muestra los ingresos de cada unidad.
 Ver el caso
 San Miguel, provincia de Buenos Aires
 ### Clínica Bessone
-Inició un modelo de atención autogestionado, que reducía la espera y la carga administrativa, con autoadmisión por credencial como complemento de los turnos web.
+Atiende con un modelo autogestionado que reduce la espera y la carga administrativa, con autoadmisión por credencial como complemento de los turnos web.
 Ver el caso
 Ciudad Autónoma de Buenos Aires
 ### Sanatorio de la Providencia
@@ -210,7 +210,7 @@ Datatech S.A. existe desde 1978, cuando fue creada para el desarrollo de product
 
 ###
 ### ¿Qué instituciones usan los sistemas Datatech?
-Más de 600 establecimientos asistenciales utilizan sistemas Datatech para la totalidad de su operatoria diaria. Datatech tiene sistemas para sanatorios, hospitales, clínicas y centros asistenciales, laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga. Entre las instituciones que implementaron sus sistemas, según los casos que Datatech publicó, figuran la Fundación Médica de Río Negro y Neuquén, la Clínica Bessone de San Miguel, el Sanatorio de la Providencia de la Ciudad de Buenos Aires, el Instituto Dorrego de Rosario y el Instituto Modelo de Cardiología de Córdoba.
+Más de 600 establecimientos asistenciales utilizan sistemas Datatech para la totalidad de su operatoria diaria. Datatech tiene sistemas para sanatorios, hospitales, clínicas y centros asistenciales, laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga. Entre las instituciones que trabajan con sus sistemas figuran la Fundación Médica de Río Negro y Neuquén, la Clínica Bessone de San Miguel, el Sanatorio de la Providencia de la Ciudad de Buenos Aires, el Instituto Dorrego de Rosario y el Instituto Modelo de Cardiología de Córdoba.
 
 ###
 ### ¿Qué incluye el sistema de gestión de Datatech?
@@ -218,13 +218,13 @@ El sistema Datatech para hospitales y sanatorios es modular y cubre la operatori
 
 ###
 ### ¿Dónde está Datatech y cómo puedo contactarla?
-Datatech S.A. está en Av. Córdoba 1184, 5º piso (C1055AAO), Ciudad Autónoma de Buenos Aires, Argentina. Para solicitar información sobre los sistemas puede llamar al (54-11) 4374-1002 o escribir desde el formulario de contacto de www.datatech.com.ar. Datatech también tiene una página de Facebook (facebook.com/sistemasdatatech).
+Datatech S.A. está en Av. Córdoba 1184, 5º piso (C1055AAO), Ciudad Autónoma de Buenos Aires, Argentina. Desde la página de contacto de www.datatech.com.ar puede solicitar una demostración de los sistemas o pedir información. También puede llamar al (54-11) 4374-1002. Datatech también tiene una página de Facebook (facebook.com/sistemasdatatech).
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -242,7 +242,7 @@ Soluciones
 
 Cuatro líneas de producto que se adaptan a la operatoria de cada cliente y se combinan entre sí para abarcar la totalidad de las necesidades de un prestador.
 
-Solicitar informaciónComparar las soluciones
+Solicitar una demostraciónComparar las soluciones
 
 ## Hospitales y Sanatorios
 
@@ -270,7 +270,7 @@ La tabla compara las principales funcionalidades de los cuatro sistemas. Los mó
 
 Todas las funcionalidades
 
-«Incluido» indica que la funcionalidad figura en la descripción publicada de cada sistema, y el guion indica que no figura en ella. El sistema para hospitales y sanatorios incluye también laboratorio de análisis clínicos y servicios de diagnóstico, y los módulos se pueden combinar entre sí.
+«Incluido» indica que la funcionalidad figura en la descripción de cada sistema, y el guion indica que no figura en ella. El sistema para hospitales y sanatorios incluye también laboratorio de análisis clínicos y servicios de diagnóstico, y los módulos se pueden combinar entre sí.
 FuncionalidadHospitales y SanatoriosLaboratoriosCentros de DiagnósticoMedicina Prepaga
 
 TurnosIncluido—No figuraIncluido—No figura
@@ -310,15 +310,15 @@ Preguntas frecuentes
 
 ###
 ### ¿Se pueden combinar las soluciones de Datatech entre sí?
-Sí, las soluciones de Datatech se combinan entre sí para abarcar la totalidad de las necesidades de un prestador. El módulo de laboratorio de análisis clínicos puede combinarse con otros módulos Datatech, y el sistema de medicina prepaga completa la información administrativo-contable con los módulos de administración financiera y compras. Por ejemplo, Instituto Dorrego, de Rosario, que gestionaba el Sanatorio Rosendo García con el sistema integrado de Datatech, decidió migrar también su sistema de medicina prepaga a la versión gráfica para consolidar la información.
+Sí, una institución puede usar a la vez módulos de distintas soluciones de Datatech. El módulo de laboratorio de análisis clínicos puede combinarse con otros módulos Datatech, y el sistema de medicina prepaga completa la información administrativo-contable con los módulos de administración financiera y compras. Por ejemplo, Instituto Dorrego, de Rosario, gestiona el Sanatorio Rosendo García con el sistema integrado de Datatech y decidió migrar también su sistema de medicina prepaga a la versión gráfica para consolidar la información.
 
 ###
 ### ¿Qué solución de Datatech conviene a mi institución?
-La solución de Datatech que conviene depende del tipo de prestador y de su operatoria. Para hospitales, sanatorios, clínicas y centros médicos con varios consultorios corresponde el sistema para hospitales y sanatorios, que también incluye laboratorio de análisis clínicos y servicios de diagnóstico. Para laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga, Datatech tiene un sistema específico para cada actividad. Si la institución reúne varias actividades, se combinan los módulos que necesita. Entre sus servicios, Datatech ofrece el análisis de la situación y el planeamiento estratégico orientado a la implementación de sistemas informáticos.
+La solución de Datatech que conviene depende del tipo de prestador y de su operatoria. Para hospitales, sanatorios, clínicas y centros médicos con varios consultorios corresponde el sistema para hospitales y sanatorios, que abarca además el laboratorio de análisis clínicos y los servicios de diagnóstico. Para laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga, Datatech tiene un sistema específico para cada actividad. Si la institución reúne varias actividades, se combinan los módulos que necesita. Para evaluar qué solución se ajusta a su operatoria, puede solicitar una demostración desde la página de contacto.
 
 ###
 ### ¿Los sistemas de Datatech son modulares?
-Sí, el software Datatech para hospitales y sanatorios es modular y, por lo tanto, adaptable a las necesidades y posibilidades de cada cliente. Cada institución combina las funcionalidades según su operatoria, por ejemplo internación y guardia, consultorios, laboratorio o servicios de diagnóstico. El módulo de laboratorio y el sistema de medicina prepaga también se combinan con otros módulos Datatech. Los servicios que acompañan a los sistemas se contratan en su totalidad o en las combinaciones que se requieran. Para recibir una propuesta, contáctenos y cuéntenos qué áreas quiere sistematizar.
+Sí, el software Datatech para hospitales y sanatorios es modular y, por lo tanto, adaptable a las necesidades y posibilidades de cada cliente. Cada institución combina las funcionalidades según su operatoria, por ejemplo internación y guardia, consultorios, laboratorio o servicios de diagnóstico. Su versatilidad permite resolver la totalidad de la operatoria, tanto en instituciones con internación, pacientes ambulatorios y guardia como en centros médicos con varios consultorios. Para recibir una propuesta, contáctenos y cuéntenos qué áreas quiere sistematizar.
 
 ###
 ### ¿Qué servicios acompañan a los sistemas Datatech?
@@ -326,13 +326,13 @@ Datatech acompaña sus sistemas con servicios para cada etapa del proyecto. Ante
 
 ###
 ### ¿Qué tienen en común las cuatro soluciones de Datatech?
-Las cuatro soluciones proveen información de gestión a partir de la información estadística que generan y se integran para abarcar la totalidad de las necesidades de un prestador. Las respalda una base de más de 600 establecimientos asistenciales que utilizan sistemas Datatech para la totalidad de su operatoria diaria, lo que da a los productos confiabilidad, estabilidad operativa y la máxima adecuación a las características vigentes en el mercado. Datatech S.A. fue creada en 1978 y desde 1987 se dedica exclusivamente a brindar soluciones informáticas para empresas vinculadas al área de la salud.
+Las cuatro soluciones proveen información de gestión y se combinan entre sí, y los sistemas Datatech se usan en más de 600 establecimientos asistenciales. Datatech S.A. fue creada en 1978 y desde 1987 se dedica exclusivamente a brindar soluciones informáticas para empresas vinculadas al área de la salud. Su sistema de gestión de la calidad está certificado por IRAM bajo la norma IRAM-ISO 9001:2015 para la capacitación, la implementación y el soporte técnico de software para empresas de salud.
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -351,7 +351,7 @@ Centros de Diagnóstico
 
 Una herramienta eficaz para toda la operatoria de un centro de diagnóstico por imágenes, incluyendo las áreas técnicas y administrativas. El sistema controla todas las instancias del tránsito del paciente dentro de la institución, desde la asignación del turno hasta la entrega del informe.
 
-Solicitar informaciónVer el circuito completo
+Solicitar una demostraciónVer el circuito completo
 
 ## Qué resuelve el sistema
 
@@ -437,15 +437,15 @@ Además, todos los productos Datatech proveen información de gestión a partir 
 
 ## Un caso en diagnóstico por imágenes
 
-La Fundación Médica de Río Negro y Neuquén integró dos centros de imágenes en una única instalación de los sistemas Datatech.
+La Fundación Médica de Río Negro y Neuquén trabaja con los sistemas integrados de Datatech en dos centros de imágenes de distintas ciudades.
 
 Ver el caso completo
 
 La Fundación integró la Clínica Radiológica del Sur, de Cipolletti, y la Clínica de Imágenes, de Neuquén, en una única instalación. A partir de los sistemas integrados de Datatech consolidó la información de sus tres unidades de negocio y centralizó su oficina de sistemas.
 
-También se diseñó un tablero de comando que mostraba los ingresos de cada unidad, en cantidad de pacientes o en dinero. El tablero daba una visión en tiempo real de la actividad diaria en cada localidad.
+También se diseñó un tablero de comando que muestra los ingresos de cada unidad, en cantidad de pacientes o en dinero. El tablero da una visión en tiempo real de la actividad diaria en cada localidad.
 
-Según se informó entonces, la Fundación logró una gestión más eficiente de sus recursos y de su información.
+La Fundación logró una gestión más eficiente de sus recursos y de su información.
 
 ## Un proveedor especializado en salud
 
@@ -501,7 +501,7 @@ El software de Datatech para centros de diagnóstico gestiona toda la operatoria
 
 ###
 ### ¿Qué diferencia hay entre un RIS o un PACS y el sistema de gestión de Datatech?
-Un RIS (sistema de información radiológica) organiza el trabajo de un servicio de imágenes y un PACS archiva y muestra las imágenes de los estudios, mientras que el sistema de Datatech gestiona toda la operatoria del centro de diagnóstico, incluida la administración. Cubre funciones que suelen asociarse a un RIS, como turnos, recepción de pacientes, control en áreas técnicas e informes, y suma facturación de prestaciones y liquidación de honorarios médicos. Permite asociar imágenes a los informes, pero no se presenta como un PACS. Si su centro ya trabaja con un PACS, consulte a Datatech para analizar su caso.
+Un RIS (sistema de información radiológica) organiza el trabajo de un servicio de imágenes y un PACS archiva y muestra las imágenes, mientras que el sistema de Datatech gestiona toda la operatoria del centro, incluida la administración. Cubre funciones que suelen asociarse a un RIS, como turnos, recepción, control en áreas técnicas e informes, y suma facturación de prestaciones y liquidación de honorarios médicos. Permite asociar imágenes a los informes, pero no se presenta como un PACS. Si su centro ya usa un PACS, puede solicitar una demostración desde la página de contacto para analizar su caso.
 
 ###
 ### ¿Se pueden asociar imágenes a los informes y enviarlos por e-mail?
@@ -513,7 +513,7 @@ Sí, el sistema de Datatech para centros de diagnóstico incluye la facturación
 
 ###
 ### ¿Se puede usar en un centro de diagnóstico con varias sedes?
-Sí, los sistemas integrados de Datatech ya se usaron para reunir centros de imágenes de distintas ciudades en una única instalación. La Fundación Médica de Río Negro y Neuquén integró así la Clínica Radiológica del Sur, de Cipolletti, y la Clínica de Imágenes, de Neuquén. Consolidó la información de sus tres unidades de negocio y centralizó su oficina de sistemas. Un tablero de comando mostraba los ingresos de cada unidad, en cantidad de pacientes o en dinero, y daba una visión en tiempo real de la actividad diaria en cada localidad.
+Sí, los sistemas integrados de Datatech admiten instalaciones que reúnen centros de distintas ciudades. Es el caso de la Fundación Médica de Río Negro y Neuquén, que trabaja con una única instalación para la Clínica Radiológica del Sur, en Cipolletti, y la Clínica de Imágenes, en Neuquén. La información de sus unidades de negocio queda consolidada y la oficina de sistemas, centralizada. Un tablero de comando muestra los ingresos de cada unidad y ofrece una visión en tiempo real de lo que ocurre en cada localidad.
 
 ###
 ### ¿Qué servicios ofrece Datatech para implementar el sistema?
@@ -521,9 +521,9 @@ Datatech brinda capacitación, implementación, mantenimiento y adecuación y ad
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -542,7 +542,7 @@ Hospitales y Sanatorios
 
 Un sistema de gestión hospitalaria (HIS) modular que cubre las operaciones administrativas, operativas y los registros médico-asistenciales. Se adapta a las necesidades y posibilidades de cada institución, desde un centro médico con varios consultorios hasta un hospital con internación, ambulatorio y guardia.
 
-Solicitar informaciónVer funcionalidades
+Solicitar una demostraciónVer funcionalidades
 
 ## Qué resuelve el sistema de gestión sanatorial
 
@@ -600,7 +600,7 @@ El sistema maneja pacientes ambulatorios e internados. En la internación suma e
 - Actualización de precios de medicamentos con información de los principales proveedores del mercado
 
 ### Historia clínica de los internados
-La clínica AMEBPBA comenzó a usar la historia clínica electrónica para sus pacientes internados. El departamento de enfermería, previamente capacitado, la complementó con el registro de enfermería.
+La clínica AMEBPBA usa la historia clínica electrónica para sus pacientes internados. El departamento de enfermería, previamente capacitado, la complementa con el registro de enfermería.
 
 ### Registros médicos en una segunda etapa
 El Sanatorio de la Providencia organizó la puesta en marcha en dos fases. Al cierre de la fase administrativa, la etapa siguiente preveía la capacitación para el uso de registros médicos, la administración de quirófanos y los trámites internos.
@@ -612,30 +612,30 @@ Caso de cliente
 
 ## Varias sedes en una sola instalación
 
-La Fundación Médica de Río Negro y Neuquén consolidó la información de sus tres unidades de negocio con los sistemas integrados de Datatech.
+La Fundación Médica de Río Negro y Neuquén trabaja con los sistemas integrados de Datatech y consolida en ellos la información de sus tres unidades de negocio.
 
 Ver el caso
 
-A partir de la instalación de los sistemas integrados, la Fundación centralizó su oficina de sistemas. Integró en una única instalación la Clínica Radiológica del Sur, de Cipolletti, y la Clínica de Imágenes, de Neuquén.
+A partir de la instalación de los sistemas integrados, la Fundación centralizó su oficina de sistemas. Hoy la Clínica Radiológica del Sur, de Cipolletti, y la Clínica de Imágenes, de Neuquén, operan sobre una única instalación.
 
-Se diseñó además un tablero de comando con los ingresos de cada unidad, en cantidad de pacientes o en dinero. El tablero daba una visión en tiempo real de la actividad diaria en cada localidad. Según lo publicado, la Fundación logró una gestión más eficiente de sus recursos y de su información.
+Se diseñó además un tablero de comando con los ingresos de cada unidad, en cantidad de pacientes o en dinero. El tablero da una visión en tiempo real de la actividad diaria en cada localidad. La Fundación logró una gestión más eficiente de sus recursos y de su información.
 
-Todos los productos Datatech proveen información de gestión a partir de la información estadística que generan. En Rosario, Instituto Dorrego S.A. cubría todas las operaciones del Sanatorio Rosendo García con el Sistema Integrado de Gestión Médico Administrativa Datatech y, para consolidar la información, decidió migrar también su sistema de medicina prepaga a la versión gráfica.
+Todos los productos Datatech proveen información de gestión a partir de la información estadística que generan. En Rosario, Instituto Dorrego S.A. cubre todas las operaciones del Sanatorio Rosendo García con el Sistema Integrado de Gestión Médico Administrativa Datatech y, para consolidar la información, decidió migrar también su sistema de medicina prepaga a la versión gráfica.
 
 ## Turnos web y autoadmisión
 
-El sistema incluye turnos y atención en consultorios con cola de pacientes en espera. En Clínica Bessone, de San Miguel, ese circuito se complementó con turnos web y autoadmisión con credencial.
+El sistema incluye turnos y atención en consultorios con cola de pacientes en espera. En Clínica Bessone, de San Miguel, ese circuito se complementa con turnos web y autoadmisión con credencial.
 
 Turnos web y autoadmisión
 
 ### Turnos web
-Los pacientes de Clínica Bessone se asignaban sus propios turnos por la web. Desde el mismo servicio podían consultarlos y cancelarlos con anticipación.
+Los pacientes de Clínica Bessone se asignan sus propios turnos por la web. Desde el mismo servicio pueden consultarlos y cancelarlos con anticipación.
 
 ### Autoadmisión con credencial
-Los pacientes con cita previa y los de guardia hacían la autoadmisión pasando su credencial. Solo realizaban un trámite administrativo quienes tenían copagos.
+Los pacientes con cita previa y los de guardia hacen la autoadmisión pasando su credencial. Solo realizan un trámite administrativo quienes tienen copagos.
 
 ### Menos espera en admisión
-Según lo publicado, el modelo autogestionado reducía el tiempo de espera de los pacientes y minimizaba la carga administrativa de la clínica. Ver el caso de Clínica Bessone.
+El modelo autogestionado reduce el tiempo de espera de los pacientes y minimiza la carga administrativa de la clínica. Ver el caso de Clínica Bessone.
 
 ## Pensado para el trabajo diario
 
@@ -660,11 +660,11 @@ Ver los servicios
 
 El Sanatorio de la Providencia, de la Ciudad de Buenos Aires, dividió el proyecto en dos fases. La primera fue de orden administrativo y la segunda incluía las operaciones médicas. Personal del Sanatorio y de Datatech trabajó en forma conjunta, y los manuales de operación y procedimientos se redactaron mientras se implementaba el sistema. La primera fase se completó en 6 meses, de acuerdo con los cronogramas acordados con el cliente.
 
-En Córdoba, el Instituto Modelo de Cardiología pasó a administrarse con el Sistema Integrado de Gestión Médico Administrativa de Datatech después de una intensa capacitación de su personal.
+En Córdoba, el Instituto Modelo de Cardiología se administra con el Sistema Integrado de Gestión Médico Administrativa de Datatech, que adoptó después de una intensa capacitación de su personal.
 
 Datatech S.A. fue creada en 1978 y desde 1987 se dedica exclusivamente a brindar soluciones informáticas para empresas vinculadas al área de la salud. Más de 600 establecimientos asistenciales utilizan sistemas Datatech para la totalidad de su operatoria diaria.
 
-Para evaluar un cambio de sistema, consulte las guías cómo elegir un sistema de gestión para sanatorios y cómo implementar un sistema de gestión en salud.
+Para evaluar un cambio de sistema, puede solicitar una demostración y consultar las guías cómo elegir un sistema de gestión para sanatorios y cómo implementar un sistema de gestión en salud.
 
 ## Cada funcionalidad, en detalle
 
@@ -719,11 +719,11 @@ El software Datatech para clínicas y sanatorios cubre las operaciones administr
 
 ###
 ### ¿El sistema sirve para internación, pacientes ambulatorios y guardia?
-Sí, el software Datatech para hospitales y sanatorios resuelve la totalidad de la operatoria de instituciones que atienden internaciones, pacientes ambulatorios y guardia. Por su versatilidad, también sirve para centros médicos con varios consultorios, e incluye turnos y atención en consultorios con cola de pacientes en espera. Como es modular, cada institución combina las funcionalidades según su operatoria. En Clínica Bessone, por ejemplo, los pacientes con cita previa y los de guardia hacían la autoadmisión pasando su credencial.
+Sí, el software Datatech para hospitales y sanatorios resuelve la totalidad de la operatoria de instituciones que atienden internaciones, pacientes ambulatorios y guardia. Por su versatilidad, también sirve para centros médicos con varios consultorios, e incluye turnos y atención en consultorios con cola de pacientes en espera. Como es modular, cada institución combina las funcionalidades según su operatoria. En Clínica Bessone, por ejemplo, los pacientes de guardia y los que tienen turno ingresan por autoadmisión con su credencial.
 
 ###
 ### ¿El sistema maneja camas y la administración de pisos?
-Sí, el manejo de camas y el sistema de administración de pisos forman parte del software Datatech para hospitales y sanatorios. En el mismo sistema están el manejo de pacientes internados, la historia clínica con sus internaciones, la medicación por nombre comercial y por droga y los inventarios multidepósito. La clínica AMEBPBA, por ejemplo, comenzó a usar la historia clínica electrónica para sus pacientes internados, y su departamento de enfermería la complementó con el registro correspondiente.
+Sí, el manejo de camas y el sistema de administración de pisos forman parte del software Datatech para hospitales y sanatorios. En el mismo sistema están el manejo de pacientes internados, la historia clínica con sus internaciones, la medicación por nombre comercial y por droga y los inventarios multidepósito. En la clínica AMEBPBA, por ejemplo, cada paciente internado tiene su historia clínica electrónica, a la que enfermería suma su propio registro.
 
 ###
 ### ¿Cómo se liquidan los honorarios médicos en el sistema?
@@ -731,21 +731,21 @@ El software Datatech para hospitales y sanatorios liquida los honorarios médico
 
 ###
 ### ¿Con qué prepagas tiene autorizaciones en línea el sistema para sanatorios?
-El sistema Datatech para hospitales y sanatorios incluye interfaces para autorizaciones en línea con diversas prepagas, y la lista vigente para su institución se confirma con Datatech. Entre los ejemplos publicados, Datatech desarrolló la interfaz para el web service de autorización de prestaciones ambulatorias de Sancor Salud, para que sus usuarios autorizaran en la misma modalidad que otras autorizaciones en línea. En 2017 también adaptó sus sistemas a un cambio de Traditum que afectaba la validación en línea.
+El sistema Datatech para hospitales y sanatorios incluye interfaces para autorizaciones en línea con diversas prepagas, entre ellas Sancor Salud, y se integra con Traditum para la validación en línea. Los usuarios autorizan las prestaciones ambulatorias de Sancor Salud a través de su web service, en la misma modalidad que las demás autorizaciones en línea. En 2017, Datatech adaptó sus sistemas a un cambio en los servidores centrales de Traditum y lo probó en forma directa con Traditum. Para conocer las autorizaciones disponibles para su institución, puede solicitar una demostración desde la página de contacto.
 
 ###
 ### ¿Se pueden manejar varias sedes en una sola instalación?
-Sí, varias unidades de negocio pueden trabajar sobre una única instalación de los sistemas integrados de Datatech. La Fundación Médica de Río Negro y Neuquén, por ejemplo, consolidó así la información de sus tres unidades de negocio y centralizó su oficina de sistemas. Integró en una única instalación la Clínica Radiológica del Sur, de Cipolletti, y la Clínica de Imágenes, de Neuquén, y un tablero de comando mostraba los ingresos de cada unidad en cantidad de pacientes o en dinero.
+Sí, varias unidades de negocio pueden trabajar sobre una única instalación de los sistemas integrados de Datatech. La Fundación Médica de Río Negro y Neuquén, por ejemplo, reúne así la información de sus tres unidades de negocio y tiene centralizada su oficina de sistemas. Su tablero de comando permite seguir los ingresos de cada unidad, medidos en cantidad de pacientes o en dinero, y ver la actividad de cada localidad en tiempo real.
 
 ###
 ### ¿El software para sanatorios es modular?
-Sí, el software Datatech para hospitales y sanatorios es modular y se adapta a las necesidades y posibilidades de cada institución. Cada sanatorio o clínica elige las funcionalidades según su operatoria, y el sistema se combina con otros módulos Datatech, como laboratorio, diagnóstico o medicina prepaga. Los servicios de Datatech se contratan en su totalidad o en las combinaciones que se requieran, desde el análisis de la situación y la capacitación hasta el desarrollo de módulos complementarios.
+Sí, el software Datatech para hospitales y sanatorios es modular y se adapta a las necesidades y posibilidades de cada institución. Cada sanatorio o clínica elige las funcionalidades según su operatoria, y el sistema se combina con otros módulos Datatech, como laboratorio, diagnóstico o medicina prepaga. Del mismo modo, su institución puede contratar los servicios de Datatech completos o combinados, desde el análisis de la situación y la capacitación hasta el desarrollo de módulos complementarios.
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -764,7 +764,7 @@ Laboratorios de Análisis Clínicos
 
 El sistema de gestión para laboratorios (LIS) de Datatech es una herramienta eficaz para toda la operatoria del laboratorio, en sus aspectos técnicos y administrativos. Se conecta con gran cantidad de equipos, factura en forma automática a obras sociales y adapta su forma de trabajar a las necesidades de cada laboratorio.
 
-Solicitar informaciónVer funcionalidades
+Solicitar una demostraciónVer funcionalidades
 
 ## Menos carga manual, más control
 
@@ -864,15 +864,15 @@ Preguntas frecuentes
 
 ###
 ### ¿Qué es un LIS y qué debe tener un software para laboratorio de análisis clínicos?
-Un LIS, o sistema de información de laboratorio, es el software que gestiona la operatoria técnica y administrativa de un laboratorio de análisis clínicos. Conviene que cubra las fases preanalítica y analítica, que se conecte con los equipos para cargar análisis y recibir resultados, que permita controles, verificaciones y diseño de protocolos, que envíe informes y que facture a obras sociales. El sistema Datatech para laboratorios incluye esas funciones, junto con la cuenta corriente de obras sociales, el subdiario de ventas y la interfaz contable.
+Un LIS, o sistema de información de laboratorio, es el software que gestiona la operatoria técnica y administrativa de un laboratorio de análisis clínicos. Conviene que cubra las fases preanalítica y analítica, que se conecte con los equipos para cargar análisis y recibir resultados, que permita controles, verificaciones y diseño de protocolos, que envíe informes y que facture a obras sociales. El sistema Datatech para laboratorios incluye esas funciones, y para evaluarlo puede solicitar una demostración desde la página de contacto.
 
 ###
 ### ¿El sistema de laboratorio se conecta con mi autoanalizador?
-El sistema Datatech para laboratorios tiene interfaces automáticas con gran cantidad de equipos, y la compatibilidad con un modelo puntual se confirma con Datatech. Estas interfaces facilitan la carga de análisis y la recepción de resultados, con menos ingreso manual de datos. Para confirmar si su autoanalizador ya tiene interfaz, consulte a Datatech indicando la marca y el modelo del equipo. El desarrollo de interfaces es, además, uno de los servicios que brinda Datatech.
+El sistema Datatech para laboratorios tiene interfaces automáticas con gran cantidad de equipos, y la compatibilidad con su autoanalizador se confirma a partir de la marca y el modelo. Con estas interfaces, el laboratorio carga los análisis y recibe los resultados de los equipos con menos ingreso manual de datos. Entre los servicios que brinda Datatech figura, además, el desarrollo de interfaces.
 
 ###
 ### ¿El software de laboratorio factura automáticamente a las obras sociales?
-Sí, en el sistema Datatech para laboratorios las tareas de facturación se realizan en forma automática, respetando las normas vigentes. La operatoria técnica y la administrativa del laboratorio se resuelven en el mismo sistema. El módulo incluye además la cuenta corriente de obras sociales, el subdiario de ventas, la interfaz contable y las estadísticas de facturación, y puede combinarse con otros módulos Datatech.
+Sí, el sistema Datatech para laboratorios factura a las obras sociales en forma automática, respetando las normas vigentes. La operatoria técnica y la administrativa del laboratorio se resuelven en el mismo sistema. Desde el mismo módulo, la administración lleva la cuenta corriente de obras sociales, el subdiario de ventas, la interfaz contable y las estadísticas de facturación.
 
 ###
 ### ¿El software de laboratorio permite enviar informes por e-mail y diseñar protocolos?
@@ -880,17 +880,17 @@ Sí, el sistema Datatech para laboratorios incluye el diseño de protocolos y el
 
 ###
 ### ¿El sistema de laboratorio se combina con otros módulos de Datatech?
-Sí, el módulo de laboratorio puede combinarse con otros módulos Datatech. El sistema para hospitales y sanatorios incluye el laboratorio de análisis clínicos entre sus funcionalidades, y la historia clínica del paciente reúne consultas médicas, internaciones, protocolos de laboratorio y estudios diagnósticos. Datatech también desarrolla sistemas para centros de diagnóstico y empresas de medicina prepaga. Más de 600 establecimientos asistenciales utilizan sistemas Datatech para la totalidad de su operatoria diaria.
+Sí, el sistema para laboratorios admite la combinación con otros módulos Datatech. Por ejemplo, el sistema para hospitales y sanatorios incluye el laboratorio de análisis clínicos entre sus funcionalidades, y la historia clínica del paciente reúne consultas médicas, internaciones, protocolos de laboratorio y estudios diagnósticos. Datatech también desarrolla sistemas para centros de diagnóstico y empresas de medicina prepaga. Más de 600 establecimientos asistenciales utilizan sistemas Datatech para la totalidad de su operatoria diaria.
 
 ###
 ### ¿Qué cubre el software de laboratorio de Datatech en las fases preanalítica y analítica?
-El sistema Datatech para laboratorios contempla gran cantidad de operaciones que acompañan la tarea diaria del laboratorio en las fases preanalítica y analítica. La fase preanalítica abarca lo que ocurre antes de procesar la muestra, como el ingreso de la orden, y la analítica comprende el procesamiento en los equipos. Las interfaces automáticas con los equipos facilitan la carga de análisis y la recepción de resultados, y el sistema suma tareas de control y verificación. Para relevar los circuitos de su laboratorio, Datatech ofrece el análisis de la situación como servicio.
+El sistema Datatech para laboratorios acompaña la tarea diaria de ambas fases con gran cantidad de operaciones. La fase preanalítica abarca lo que ocurre antes de procesar la muestra, como el ingreso de la orden, y la analítica comprende el procesamiento en los equipos. En esa fase, el sistema se conecta con los equipos por interfaz para cargar los análisis y recibir los resultados, y suma tareas de control y verificación. Para relevar los circuitos de su laboratorio, Datatech ofrece el análisis de la situación como servicio.
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -909,7 +909,7 @@ Medicina Prepaga
 
 El sistema administra todos los aspectos administrativos y operativos de una empresa de medicina prepaga, desde la afiliación del socio hasta la forma de controlar las prestaciones que recibe, en todas sus variantes.
 
-Solicitar informaciónVer funcionalidades
+Solicitar una demostraciónVer funcionalidades
 
 ## Controles en cada momento
 
@@ -1008,11 +1008,11 @@ Instituto Dorrego S.A., de la ciudad de Rosario, decidió migrar su sistema de m
 
 Ver el caso de Instituto Dorrego
 
-Desde hacía varios años, el Instituto cubría todas las operaciones del Sanatorio Rosendo García con el Sistema Integrado de Gestión Médico Administrativa Datatech, en su versión gráfica. El sistema abarcaba las tareas administrativas, las operativas y los registros médico-asistenciales.
+Desde hace varios años, el Instituto cubre todas las operaciones del Sanatorio Rosendo García con el Sistema Integrado de Gestión Médico Administrativa Datatech, en su versión gráfica. El sistema abarca las tareas administrativas, las operativas y los registros médico-asistenciales.
 
-A partir del éxito obtenido con los sistemas integrados, el Instituto decidió llevar también su sistema de medicina prepaga a la versión gráfica. Según lo publicado, la migración buscaba dar mayor confiabilidad y estabilidad, y sentar las bases para expandir la oferta de servicios a otras localidades de la provincia de Santa Fe.
+A partir del éxito obtenido con los sistemas integrados, el Instituto decidió llevar también su sistema de medicina prepaga a la versión gráfica. La migración le da mayor confiabilidad y estabilidad y sienta las bases para expandir su oferta de servicios a otras localidades de la provincia de Santa Fe.
 
-Datatech brinda servicios de análisis de la situación, implementación, capacitación y adecuación de los sistemas, que se contratan en su totalidad o en las combinaciones que requiera cada cliente.
+Datatech brinda servicios de análisis de la situación, implementación, capacitación y adecuación de los sistemas, que se contratan en su totalidad o en las combinaciones que requiera cada cliente. Si desea ver el sistema de medicina prepaga en funcionamiento, puede solicitar una demostración.
 
 ## Otras soluciones
 
@@ -1049,32 +1049,32 @@ El sistema de medicina prepaga de Datatech controla las facturas que envían los
 
 ###
 ### ¿Existe software de auditoría odontológica que verifique la facturación propuesta?
-Sí, el sistema de medicina prepaga de Datatech incluye un módulo de auditoría odontológica. El módulo verifica las normas de uso de las prestaciones odontológicas y controla si la facturación propuesta por el prestador es correcta. Se suma a la auditoría de facturas de prestadores, que genera débitos y observaciones, lleva la cuenta corriente de cada prestador con el importe auditado y realiza las acciones necesarias para generar los pagos.
+Sí, el sistema de medicina prepaga de Datatech incluye un módulo de auditoría odontológica. En cada factura, el módulo controla que se respeten las normas de uso de las prestaciones odontológicas y que la facturación propuesta por el prestador sea correcta. El módulo trabaja junto con la auditoría general de facturas de prestadores, de modo que los débitos y observaciones, la cuenta corriente del prestador y la generación de los pagos se resuelven en el mismo sistema.
 
 ###
 ### ¿Qué estadísticas de gasto puede obtener una prepaga con el sistema de Datatech?
-El sistema de medicina prepaga de Datatech provee múltiples estadísticas para analizar los gastos por plan y prestador, por profesional solicitante y por patología, entre otros criterios. Como todos los productos Datatech, provee información de gestión a partir de la información estadística que genera. Con estos análisis, la prepaga puede identificar qué planes, prestadores, profesionales solicitantes o patologías concentran el gasto en prestaciones.
+El sistema de medicina prepaga de Datatech provee múltiples estadísticas para analizar los gastos por plan y prestador, por profesional solicitante y por patología, entre otros criterios. Esa información estadística es la base de la información de gestión que proveen todos los productos Datatech. Con estos análisis, la prepaga puede identificar qué planes, prestadores, profesionales solicitantes o patologías concentran el gasto en prestaciones.
 
 ###
 ### ¿Qué experiencia tiene Datatech con empresas de medicina prepaga?
-Datatech se dedica desde 1987 exclusivamente a brindar soluciones informáticas para empresas vinculadas al área de la salud, y su línea de productos incluye un sistema específico para empresas de medicina prepaga. Un caso publicado es el de Instituto Dorrego S.A., de Rosario, que decidió migrar su sistema de medicina prepaga a la versión gráfica. El Instituto ya cubría con sistemas integrados Datatech todas las operaciones del Sanatorio Rosendo García y buscaba consolidar la información, ganar confiabilidad y estabilidad y preparar su expansión a otras localidades de Santa Fe.
+Datatech se dedica desde 1987 exclusivamente a brindar soluciones informáticas para empresas vinculadas al área de la salud, y su línea de productos incluye un sistema específico para empresas de medicina prepaga. Instituto Dorrego S.A., de Rosario, gestiona las operaciones del Sanatorio Rosendo García con los sistemas integrados Datatech y eligió también la versión gráfica para su sistema de medicina prepaga, con el fin de consolidar la información. Para evaluar el sistema, puede solicitar una demostración desde la página de contacto.
 
 ###
 ### ¿Cómo se implementa el sistema de Datatech en una empresa de medicina prepaga?
-El sistema de medicina prepaga de Datatech se implementa con los servicios de la propia empresa, que se contratan en su totalidad o en las combinaciones que requiera cada empresa. Incluyen análisis de la situación, planeamiento estratégico orientado a la implementación, provisión del sistema, implementación, capacitación, mantenimiento, adecuación y adaptación de los sistemas, desarrollo de módulos complementarios, diseño de aplicaciones especiales y desarrollo de interfaces. En la puesta en marcha del sistema Datatech en el Sanatorio de la Providencia, por ejemplo, los cronogramas se realizaron en forma conjunta con el cliente.
+Datatech implementa el sistema de medicina prepaga con sus propios servicios, que cada empresa puede contratar completos o combinados según sus necesidades. Incluyen análisis de la situación, planeamiento estratégico orientado a la implementación, provisión del sistema, implementación, capacitación, mantenimiento, adecuación y adaptación de los sistemas, desarrollo de módulos complementarios, diseño de aplicaciones especiales y desarrollo de interfaces. En la puesta en marcha del sistema Datatech en el Sanatorio de la Providencia, por ejemplo, los cronogramas se realizaron en forma conjunta con el cliente.
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
 
 URL: https://www.datatech.com.ar/casos/
 Título: Casos de clientes en instituciones de salud · Datatech
-Resumen: Experiencias de clientes de Datatech en sanatorios, clínicas y centros de diagnóstico: historia clínica electrónica, turnos web e implementación por fases.
+Resumen: Sanatorios, clínicas y centros de diagnóstico que trabajan con Datatech: historia clínica electrónica, turnos web, varias sedes e implementación por fases.
 
 - Inicio
 - Casos de clientes
@@ -1083,9 +1083,9 @@ Casos de clientes
 
 # Casos de clientes en instituciones de salud
 
-Seis experiencias que Datatech publicó sobre clientes que implementaron sus sistemas, entre ellos sanatorios, clínicas y centros de diagnóstico de Buenos Aires, Córdoba, Santa Fe, Río Negro y Neuquén. Cada caso resume qué hizo la institución y el resultado que se informó.
+Seis instituciones de salud de Buenos Aires, Córdoba, Santa Fe, Río Negro y Neuquén que trabajan con los sistemas de Datatech, entre ellas sanatorios, clínicas y centros de diagnóstico. Cada caso resume cómo la institución usa el sistema y el resultado que obtuvo.
 
-Solicitar informaciónVer los casos
+Solicitar una demostraciónVer los casos
 
 ## Fundación Médica de Río Negro y Neuquén
 
@@ -1095,11 +1095,11 @@ Centros de DiagnósticoIntegración de sedesTablero de comando
 
 Sistema para centros de diagnóstico
 
-La Fundación Médica de Río Negro y Neuquén instaló los sistemas integrados de Datatech y consolidó la información de sus tres unidades de negocio. Con ese paso también centralizó su oficina de sistemas.
+La Fundación Médica de Río Negro y Neuquén trabaja con los sistemas integrados de Datatech. Con su instalación consolidó la información de sus tres unidades de negocio y centralizó su oficina de sistemas.
 
-La Fundación integró en una única instalación la Clínica Radiológica del Sur, de Cipolletti, y la Clínica de Imágenes, de Neuquén.
+La Fundación integra en una única instalación la Clínica Radiológica del Sur, de Cipolletti, y la Clínica de Imágenes, de Neuquén.
 
-Se diseñó además un tablero de comando que mostraba los ingresos de cada unidad, en cantidad de pacientes o en dinero. El tablero daba una visión en tiempo real de la actividad diaria en cada localidad.
+Un tablero de comando muestra los ingresos de cada unidad, en cantidad de pacientes o en dinero, y da una visión en tiempo real de la actividad diaria en cada localidad.
 
 La Fundación logró una gestión más eficiente de sus recursos y de su información.
 
@@ -1111,11 +1111,11 @@ Hospitales y SanatoriosHistoria clínica electrónica
 
 Historia clínica electrónica
 
-La clínica AMEBPBA comenzó a usar la historia clínica electrónica para sus pacientes internados.
+La clínica AMEBPBA usa la historia clínica electrónica para sus pacientes internados.
 
-Al mismo tiempo, el departamento de enfermería recibió capacitación y complementó la historia clínica con el registro de enfermería correspondiente.
+Para incorporarla, el departamento de enfermería recibió capacitación.
 
-Los pacientes internados pasaron a tener historia clínica electrónica, complementada con el registro de enfermería.
+Los pacientes internados tienen historia clínica electrónica, complementada con el registro que lleva el departamento de enfermería.
 
 ## Instituto Dorrego S.A.
 
@@ -1127,11 +1127,11 @@ Sistema de medicina prepaga
 
 Software para hospitales y sanatorios
 
-Instituto Dorrego S.A., de la ciudad de Rosario, cubría desde hacía varios años todas las operaciones del Sanatorio Rosendo García con el Sistema Integrado de Gestión Médico Administrativa Datatech, en su versión gráfica. El sistema abarcaba las tareas administrativas, las operativas y los registros médico-asistenciales.
+Instituto Dorrego S.A., de la ciudad de Rosario, cubre desde hace varios años todas las operaciones del Sanatorio Rosendo García con el Sistema Integrado de Gestión Médico Administrativa Datatech, en su versión gráfica. El sistema abarca las tareas administrativas, las operativas y los registros médico-asistenciales.
 
 A partir del éxito obtenido con los sistemas integrados, y con el objetivo de consolidar la información, el Instituto decidió migrar también su sistema de medicina prepaga a la versión gráfica.
 
-Según lo publicado, la migración buscaba dar mayor confiabilidad y estabilidad, y sentar las bases para expandir la oferta de servicios a otras localidades de la provincia de Santa Fe.
+Con la migración, el Instituto ganó confiabilidad y estabilidad, y sentó las bases para expandir su oferta de servicios a otras localidades de la provincia de Santa Fe.
 
 ## Instituto Modelo de Cardiología
 
@@ -1143,11 +1143,11 @@ Software para hospitales y sanatorios
 
 Capacitación e implementación
 
-Según la noticia publicada por Datatech, el Instituto Modelo de Cardiología Privado SRL, de la ciudad de Córdoba, brindaba desde hacía más de 30 años asistencia médica integral y, en particular, cardiológica. A lo largo de esos años incorporó tecnología, promovió la formación de profesionales y el desarrollo de la investigación.
+El Instituto Modelo de Cardiología Privado SRL, de la ciudad de Córdoba, brinda desde hace más de 30 años asistencia médica integral y, en particular, cardiológica. A lo largo de esos años incorporó tecnología, promovió la formación de profesionales y el desarrollo de la investigación.
 
-Después de una intensa capacitación de su personal, el Instituto pasó a administrarse con el Sistema Integrado de Gestión Médico Administrativa de Datatech.
+Después de una intensa capacitación de su personal, el Instituto se administra con el Sistema Integrado de Gestión Médico Administrativa de Datatech.
 
-La instalación del sistema se reflejó en la optimización de las operaciones en todo el ámbito de la institución.
+La instalación del sistema se refleja en la optimización de las operaciones en todo el ámbito de la institución.
 
 ## Clínica Bessone
 
@@ -1157,13 +1157,13 @@ Turnos webAutoadmisión
 
 Turnos web y autoadmisión
 
-La Clínica Bessone, de la ciudad de San Miguel, inició la atención de pacientes con un modelo autogestionado.
+La Clínica Bessone, de la ciudad de San Miguel, atiende a sus pacientes con un modelo autogestionado.
 
-Los pacientes con cita previa y los de guardia hacían la autoadmisión pasando su credencial. Solo debían realizar un trámite administrativo quienes tenían copagos.
+Los pacientes con cita previa y los de guardia hacen la autoadmisión pasando su credencial. Solo deben realizar un trámite administrativo quienes tienen copagos.
 
-La autoadmisión complementaba los turnos web, donde los pacientes se asignaban sus turnos, los consultaban y podían cancelarlos con anticipación.
+La autoadmisión complementa los turnos web, donde los pacientes se asignan sus turnos, los consultan y pueden cancelarlos con anticipación.
 
-Según lo publicado, el modelo reducía el tiempo de espera de los pacientes y minimizaba la carga administrativa.
+El modelo reduce el tiempo de espera de los pacientes y minimiza la carga administrativa.
 
 ## Sanatorio de la Providencia
 
@@ -1175,7 +1175,7 @@ Servicios de implementación
 
 Guía de implementación
 
-El Sanatorio de la Providencia inició la puesta en marcha del sistema Datatech con un proyecto dividido en dos fases. La primera fue de orden administrativo y la segunda incluía las operaciones médicas.
+El Sanatorio de la Providencia trabaja con el sistema Datatech. Su puesta en marcha se organizó en un proyecto dividido en dos fases. La primera fue de orden administrativo y la segunda incluía las operaciones médicas.
 
 El proyecto se llevó a cabo en forma conjunta entre personal del Sanatorio y personal de Datatech. Mientras se implementaba el sistema, se redactaron los manuales de operación y procedimientos correspondientes.
 
@@ -1203,30 +1203,30 @@ Preguntas frecuentes
 ## Preguntas sobre los casos de clientes
 
 ###
-### ¿Qué tipos de instituciones aparecen en los casos publicados?
-Los casos que Datatech publicó sobre sus clientes incluyen sanatorios y clínicas, una fundación que integró dos clínicas de diagnóstico por imágenes y un instituto que decidió migrar su sistema de medicina prepaga a la versión gráfica. Más allá de estos casos, Datatech desarrolla software para sanatorios, hospitales, centros asistenciales, laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga, y sus módulos pueden combinarse entre sí según las necesidades de cada institución.
+### ¿Qué tipos de instituciones trabajan con Datatech?
+Sanatorios, clínicas y centros de diagnóstico trabajan con Datatech, entre otras instituciones de salud. En esta página figuran sanatorios y clínicas, una fundación que integra dos clínicas de diagnóstico por imágenes y un instituto que migró su sistema de medicina prepaga a la versión gráfica. Datatech desarrolla software para sanatorios, hospitales, centros asistenciales, laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga, con módulos que se combinan según las necesidades de cada institución. Para evaluarlo en su institución, puede solicitar una demostración desde la página de contacto.
 
 ###
 ### ¿Cuántos establecimientos utilizan sistemas Datatech?
-Según Datatech, más de 600 establecimientos asistenciales utilizan sus sistemas para la totalidad de su operatoria diaria. Datatech S.A. fue creada en 1978 y desde 1987 se dedica exclusivamente a brindar soluciones informáticas para empresas vinculadas al área de la salud, con relaciones establecidas con federaciones y asociaciones de prestadores médico-asistenciales de todo el país. La empresa publicó experiencias de algunos de esos clientes, como la Fundación Médica de Río Negro y Neuquén, el Instituto Modelo de Cardiología de Córdoba y el Sanatorio de la Providencia.
+Más de 600 establecimientos asistenciales utilizan sistemas Datatech para la totalidad de su operatoria diaria. Datatech S.A. fue creada en 1978 y desde 1987 se dedica exclusivamente a brindar soluciones informáticas para empresas vinculadas al área de la salud, con relaciones establecidas con federaciones y asociaciones de prestadores médico-asistenciales de todo el país. Entre sus clientes están la Fundación Médica de Río Negro y Neuquén, el Instituto Modelo de Cardiología de Córdoba y el Sanatorio de la Providencia.
 
 ###
 ### ¿Cómo se organizó la puesta en marcha en el Sanatorio de la Providencia?
-El Sanatorio de la Providencia dividió la puesta en marcha en dos fases, una de orden administrativo y otra que incluía las operaciones médicas. La primera se completó en 6 meses, de acuerdo con los cronogramas elaborados en forma conjunta con el cliente, y los manuales de operación y procedimientos se redactaron durante la implementación. El proyecto se llevó a cabo entre personal del Sanatorio y personal de Datatech. Los servicios de Datatech pueden contratarse en su totalidad o en las combinaciones que requiera cada cliente.
+El Sanatorio de la Providencia organizó la puesta en marcha en dos fases, una administrativa y otra que incluía las operaciones médicas. Personal del Sanatorio y de Datatech trabajó en conjunto, y la fase administrativa se cumplió en 6 meses, según los cronogramas acordados con el cliente. Los manuales de operación y procedimientos se elaboraron en paralelo con la implementación. Los servicios de Datatech pueden contratarse en su totalidad o en las combinaciones que requiera cada cliente.
 
 ###
 ### ¿Se pueden consolidar varias sedes en un solo sistema?
-Sí, los sistemas integrados de Datatech permitieron a una institución reunir varias sedes en una única instalación. La Fundación Médica de Río Negro y Neuquén consolidó así la información de sus tres unidades de negocio, centralizó su oficina de sistemas e integró la Clínica Radiológica del Sur, de Cipolletti, y la Clínica de Imágenes, de Neuquén. Un tablero de comando mostraba en tiempo real los ingresos de cada unidad, en cantidad de pacientes o en dinero.
+Sí, los sistemas integrados de Datatech permiten reunir varias sedes en una única instalación. La Fundación Médica de Río Negro y Neuquén consolidó así la información de sus tres unidades de negocio y centralizó su oficina de sistemas. La Clínica Radiológica del Sur, de Cipolletti, y la Clínica de Imágenes, de Neuquén, comparten la misma instalación, y un tablero de comando permite seguir en tiempo real los ingresos de cada unidad.
 
 ###
 ### ¿Datatech capacita al personal de la institución?
-Sí, la capacitación es uno de los servicios que brinda Datatech, junto con la implementación, el mantenimiento y la adecuación y adaptación de los sistemas. En el Instituto Modelo de Cardiología de Córdoba, el personal recibió una intensa capacitación antes de que la institución pasara a administrarse con el Sistema Integrado de Gestión Médico Administrativa de Datatech. En el Sanatorio de la Providencia, la capacitación para el uso de registros médicos, la administración de quirófanos y los trámites internos estaba prevista como etapa siguiente de la puesta en marcha.
+Sí, la capacitación es uno de los servicios que brinda Datatech, junto con la implementación, el mantenimiento y la adecuación y adaptación de los sistemas. En el Instituto Modelo de Cardiología de Córdoba, el personal recibió una intensa capacitación antes de comenzar a administrar la institución con el Sistema Integrado de Gestión Médico Administrativa de Datatech. En el Sanatorio de la Providencia, la puesta en marcha incluía una etapa de capacitación en registros médicos, administración de quirófanos y trámites internos.
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -1288,14 +1288,14 @@ Teléfono(54-11) 4374-1002
 
 ¿Ya es cliente?Para asistencia técnica, comuníquese con Soporte Técnico al (54-11) 4374-1002 o ingrese al Área de clientes.
 
-Trabaje con nosotrosPara postularse, use el formulario de Trabaje con nosotros.
+Trabaje con nosotrosPara enviar una postulación espontánea, use el formulario de Trabaje con nosotros.
 
 Preguntas frecuentes
 ## Preguntas sobre contacto y soporte
 
 ###
-### ¿Cómo pido una demostración del sistema?
-Complete el formulario de contacto de Datatech y elija “Ver una demostración” en el campo Motivo, o llame al (54-11) 4374-1002. Indique el tipo de institución y las áreas que quiere ver, por ejemplo internación y guardia, turnos, facturación a obras sociales y prepagas, laboratorio o liquidación de honorarios médicos. Con esos datos, un especialista de Datatech se comunicará con usted para coordinar la demostración.
+### ¿Datatech ofrece demostraciones del sistema?
+Sí, Datatech ofrece demostraciones de sus sistemas para hospitales, sanatorios, clínicas, laboratorios, centros de diagnóstico y empresas de medicina prepaga. Para solicitar una, complete el formulario de contacto y elija “Ver una demostración” en el campo Motivo, o llame al (54-11) 4374-1002. Indique el tipo de institución y las áreas que quiere ver, por ejemplo internación y guardia, turnos, facturación a obras sociales y prepagas, laboratorio o liquidación de honorarios médicos. Un especialista de Datatech se comunicará con usted para coordinar la demostración.
 
 ###
 ### ¿Cómo se cotiza el sistema de gestión?
@@ -1307,11 +1307,11 @@ Comuníquese con Soporte Técnico de Datatech al (54-11) 4374-1002 o ingrese al 
 
 ###
 ### ¿Dónde están las oficinas de Datatech?
-Datatech S.A. está en Av. Córdoba 1184, 5º piso (C1055AAO), Ciudad Autónoma de Buenos Aires, Argentina, y su teléfono es (54-11) 4374-1002. La empresa implementó sus sistemas en instituciones de salud de distintas provincias, entre ellas Buenos Aires, Córdoba, Santa Fe, Río Negro y Neuquén. Para coordinar una reunión, comuníquese por teléfono o desde el formulario de contacto.
+Datatech S.A. está en Av. Córdoba 1184, 5º piso (C1055AAO), Ciudad Autónoma de Buenos Aires, Argentina, y su teléfono es (54-11) 4374-1002. Datatech trabaja con instituciones de salud de distintas provincias, entre ellas Buenos Aires, Córdoba, Santa Fe, Río Negro y Neuquén. Para coordinar una reunión, comuníquese por teléfono o desde el formulario de contacto.
 
 ###
 ### ¿Cómo puedo trabajar en Datatech?
-Postúlese desde la página Trabaje con nosotros del sitio de Datatech (www.datatech.com.ar/trabaje-con-nosotros/), con un enlace a su CV o perfil de LinkedIn y su remuneración pretendida. La búsqueda publicada es para Analista Programador SQL, dirigida a estudiantes de carreras informáticas o graduados de nivel junior, para sumarse a un equipo permanente de desarrollo de software. Use ese formulario en lugar del formulario de contacto general, para que su postulación llegue a Recursos Humanos.
+Envíe una postulación espontánea desde la página Trabaje con nosotros del sitio de Datatech (www.datatech.com.ar/trabaje-con-nosotros/), con un enlace a su CV o perfil de LinkedIn. En este momento no hay búsquedas abiertas. Si su perfil coincide con una búsqueda futura, Recursos Humanos se comunicará con usted. Use ese formulario en lugar del formulario de contacto general, para que su postulación llegue al área correcta.
 
 ---
 
@@ -1355,30 +1355,30 @@ Las empresas de medicina prepaga obtienen un producto que contempla su modalidad
 
 ## Instituciones que eligieron Datatech
 
-Datatech publicó experiencias de clientes en sanatorios, clínicas y centros de diagnóstico de Buenos Aires, Córdoba, Santa Fe, Río Negro y Neuquén.
+Sanatorios, clínicas y centros de diagnóstico de Buenos Aires, Córdoba, Santa Fe, Río Negro y Neuquén trabajan con los sistemas de Datatech.
 
 Ver todos los casos
 
 Córdoba
 ### Instituto Modelo de Cardiología
-Pasó a administrarse con el Sistema Integrado de Gestión Médico Administrativa de Datatech, después de una intensa capacitación de su personal.
+Después de una intensa capacitación de su personal, administra la institución con los sistemas de Datatech y optimizó sus operaciones en todas las áreas.
 Ver el caso
 Rosario, Santa Fe
 ### Instituto Dorrego S.A.
-Decidió migrar su sistema de medicina prepaga a la versión gráfica, para consolidar la información con los sistemas integrados Datatech de su sanatorio.
+Decidió migrar su sistema de medicina prepaga a la versión gráfica, para consolidar la información con los sistemas integrados Datatech que usa en su sanatorio.
 Ver el caso
 Clínica con internación
 ### Clínica AMEBPBA
-Comenzó a usar la historia clínica electrónica para sus pacientes internados, junto con el registro de enfermería.
+Usa la historia clínica electrónica para sus pacientes internados, junto con el registro de enfermería.
 Ver el caso
 
 ## Actualización para usuarios
 
-Las instituciones que usan los sistemas Datatech tuvieron espacios propios de actualización.
+Las instituciones que usan los sistemas Datatech cuentan con espacios propios de actualización.
 
 En la Jornada de Actualización para Laboratorios de Análisis Clínicos, realizada en el aula de Corporación General San Martín, una usuaria del sistema planteó desafíos como error 0 en el ingreso de órdenes, débito 0 y eficiencia en la gestión. También se expusieron casos de éxito y una mirada gerencial sobre cómo abordar la gestión del laboratorio.
 
-El sitio de Datatech tuvo además un área exclusiva para clientes, con acceso por número de cliente, y una página de la Jornada de actualización reservada a ellos. Conozca el sistema para laboratorios de análisis clínicos.
+Datatech ofrece además un área exclusiva para clientes, con acceso por número de cliente, y una página de la Jornada de actualización reservada a ellos. Conozca el sistema para laboratorios de análisis clínicos.
 
 ### Calidad
 Certificación IRAM-ISO 9001:2015 y nuestra política de la calidad.
@@ -1389,7 +1389,7 @@ Del análisis de la situación al mantenimiento y desarrollo.
 →
 
 ### Trabaje con nosotros
-Súmese a un equipo permanente de desarrollo de software para la salud.
+Envíe su postulación espontánea al equipo de desarrollo de software para la salud.
 →
 
 Preguntas frecuentes
@@ -1397,7 +1397,7 @@ Preguntas frecuentes
 
 ###
 ### ¿Desde cuándo se dedica Datatech al área de la salud?
-Datatech se dedica exclusivamente al área de la salud desde 1987. La empresa fue creada en 1978 como empresa de sistemas para el desarrollo de productos de software y, a partir de 1987, pasó a brindar solo soluciones informáticas para empresas vinculadas a la salud. Esa especialización y las relaciones establecidas con federaciones y asociaciones de prestadores médico-asistenciales de todo el país permitieron que sus productos evolucionaran y se integraran hasta abarcar la totalidad de las necesidades de un prestador.
+Datatech se dedica exclusivamente al área de la salud desde 1987. La empresa fue creada en 1978 como empresa de sistemas para el desarrollo de productos de software y, a partir de 1987, pasó a brindar solo soluciones informáticas para empresas vinculadas a la salud. Desde entonces, sus sistemas para sanatorios, laboratorios, centros de diagnóstico y prepagas se fueron integrando hasta cubrir la operatoria completa de un prestador.
 
 ###
 ### ¿A qué se dedica Datatech S.A.?
@@ -1405,11 +1405,11 @@ Datatech S.A. desarrolla software de gestión para instituciones de salud y pres
 
 ###
 ### ¿Datatech es una empresa argentina?
-Sí, Datatech S.A. es una empresa argentina, con oficinas en Av. Córdoba 1184, 5º piso (C1055AAO), Ciudad Autónoma de Buenos Aires. Más de 600 establecimientos asistenciales utilizan sus sistemas para la totalidad de su operatoria diaria. Esa base de uso da a los productos confiabilidad, estabilidad operativa y la máxima adecuación a las características vigentes en el mercado argentino. Para consultar por su institución puede llamar al (54-11) 4374-1002 o escribir desde el formulario de contacto.
+Sí, Datatech S.A. es una empresa argentina, con oficinas en Av. Córdoba 1184, 5º piso (C1055AAO), Ciudad Autónoma de Buenos Aires. Sus sistemas están adecuados a las características vigentes del mercado argentino y hoy los usan más de 600 establecimientos asistenciales. Para ver cómo funcionan en una institución como la suya, puede solicitar una demostración desde la página de contacto o llamar al (54-11) 4374-1002.
 
 ###
 ### ¿Datatech trabaja con instituciones fuera de Buenos Aires?
-Sí, Datatech implementó sus sistemas en instituciones de distintas provincias. Según las experiencias de clientes que publicó, el Instituto Modelo de Cardiología de Córdoba pasó a administrarse con el Sistema Integrado de Gestión Médico Administrativa de Datatech, Instituto Dorrego cubría con sistemas Datatech las operaciones del Sanatorio Rosendo García de Rosario, y la Fundación Médica de Río Negro y Neuquén consolidó la información de sus tres unidades de negocio. La empresa también estableció relaciones con federaciones y asociaciones de prestadores médico-asistenciales de todo el país.
+Sí, Datatech trabaja con instituciones de distintas provincias. El Instituto Modelo de Cardiología de Córdoba se administra con el Sistema Integrado de Gestión Médico Administrativa de Datatech, e Instituto Dorrego cubre con sistemas Datatech las operaciones del Sanatorio Rosendo García de Rosario. La Fundación Médica de Río Negro y Neuquén trabaja con los sistemas integrados de Datatech y consolidó en una única instalación la información de sus tres unidades de negocio. La empresa también tiene relaciones establecidas con federaciones y asociaciones de prestadores médico-asistenciales de todo el país.
 
 ###
 ### ¿Datatech tiene certificación ISO 9001?
@@ -1417,9 +1417,9 @@ Sí, Datatech S.A. cuenta con un sistema de gestión de la calidad certificado p
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -1437,7 +1437,7 @@ Funcionalidades
 
 La facturación a obras sociales y prepagas, la liquidación de honorarios médicos, la historia clínica, los turnos y las interfaces con financiadores, equipos y contabilidad son procesos que atraviesan a toda la institución. Varias de estas funcionalidades forman parte de más de una línea de producto Datatech, y los módulos se combinan entre sí.
 
-Solicitar informaciónVer funcionalidades
+Solicitar una demostraciónVer funcionalidades
 
 ## Procesos que atraviesan a toda la institución
 
@@ -1476,8 +1476,8 @@ Ver historia clínica electrónica
 ### Turnos web y autoadmisión
 
 - Asignación de turnos
-- Turnos web en Clínica Bessone, donde los pacientes se asignaban, consultaban y cancelaban con anticipación sus turnos
-- Autoadmisión con credencial en Clínica Bessone, para pacientes con cita previa o de guardia
+- Turnos web, con los que los pacientes se asignan sus turnos, los consultan y pueden cancelarlos con anticipación
+- Autoadmisión con credencial para pacientes con cita previa o de guardia, en uso en Clínica Bessone
 - Recepción de pacientes y emisión de etiquetas
 - Consultorios con cola de pacientes en espera
 - Control de pacientes en áreas técnicas
@@ -1487,7 +1487,7 @@ Ver turnos web y autoadmisión
 ### Integraciones y autorizaciones en línea
 
 - Autorizaciones en línea con diversas prepagas
-- Interfaz desarrollada para el web service de autorizaciones ambulatorias de Sancor Salud
+- Autorizaciones en línea de prestaciones ambulatorias con Sancor Salud, por web service
 - Interfaces automáticas con equipos de laboratorio
 - Actualización de precios de medicamentos con información de proveedores del mercado
 - Interfaces contables
@@ -1522,9 +1522,9 @@ Todos los productos Datatech proveen información de gestión a partir de las es
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -1543,7 +1543,7 @@ Funcionalidades
 
 La facturación de prestaciones médicas está integrada en los sistemas Datatech para sanatorios y clínicas, laboratorios de análisis clínicos y centros de diagnóstico. Para las empresas de medicina prepaga, el sistema factura a los afiliados y audita las facturas de los prestadores.
 
-Solicitar informaciónVer cómo funciona
+Solicitar una demostraciónVer cómo funciona
 
 ## Incluida en cada solución
 
@@ -1652,18 +1652,18 @@ Del otro lado, el sistema de medicina prepaga controla las facturas de los prest
 
 ## Factura electrónica y autorizaciones en línea
 
-Datatech desarrolló interfaces para autorizaciones en línea con prepagas y validadores, y comunicó a sus usuarios los cambios en la factura electrónica de AFIP. Estos son algunos ejemplos de sus comunicaciones a usuarios.
+Las autorizaciones en línea y la factura electrónica conectan el sistema con prepagas, validadores y ARCA.
 
 Ver integraciones
 
 ### Autorizaciones con Sancor Salud
-Cuando Sancor Salud inició la autorización de prestaciones para pacientes ambulatorios por medio de un web service, Datatech desarrolló la interfaz correspondiente. La interfaz quedó disponible para que los usuarios autorizaran en la misma modalidad que otras autorizaciones en línea.
+Los usuarios autorizan en línea con Sancor Salud las prestaciones de pacientes ambulatorios, por medio de la interfaz que Datatech desarrolló para su web service. La operación es transparente y sigue la misma modalidad que las demás autorizaciones en línea.
 
 ### Validación en línea con Traditum
-Traditum iba a implementar el 12 de septiembre de 2017 un cambio en los sistemas de sus servidores centrales que afectaba la autorización en línea. Antes de esa fecha, Datatech ya había modificado sus sistemas y los había probado en forma directa con Traditum.
+El sistema se integra con Traditum para la validación en línea. Cuando Traditum implementó el 12 de septiembre de 2017 un cambio en sus servidores centrales que afectaba la autorización en línea, Datatech ya había modificado sus sistemas y los había probado en forma directa con Traditum.
 
 ### Factura electrónica
-Ante el cambio del algoritmo de encriptación de los certificados que AFIP usaba para la emisión de la factura electrónica, Datatech informó a sus usuarios que sus certificados seguían valiendo hasta el vencimiento y que podían seguir facturando electrónicamente como lo hacían. Hoy el organismo se llama ARCA.
+Los usuarios emiten factura electrónica ante ARCA, el organismo que antes se llamaba AFIP. Cuando AFIP cambió el algoritmo de encriptación de los certificados para la factura electrónica, los certificados existentes siguieron valiendo hasta su vencimiento y los usuarios continuaron facturando electrónicamente como lo hacían.
 
 ## Funcionalidades relacionadas
 
@@ -1686,7 +1686,7 @@ Preguntas frecuentes
 
 ###
 ### ¿Qué software de facturación a obras sociales y prepagas ofrece Datatech?
-Datatech incluye la facturación a obras sociales y prepagas en sus sistemas para hospitales y sanatorios, laboratorios de análisis clínicos y centros de diagnóstico. Cada uno factura las prestaciones según su operatoria y lleva cuentas corrientes. El sistema de medicina prepaga cubre el otro lado, ya que factura a los afiliados en diversas modalidades y audita las facturas que envían los prestadores. Los módulos se combinan entre sí, y más de 600 establecimientos asistenciales utilizan sistemas Datatech.
+Datatech incluye la facturación a obras sociales y prepagas en sus sistemas para hospitales y sanatorios, laboratorios de análisis clínicos y centros de diagnóstico. Cada uno factura las prestaciones según su operatoria y lleva cuentas corrientes. El sistema de medicina prepaga cubre el otro lado, ya que factura a los afiliados en diversas modalidades y audita las facturas que envían los prestadores. Los módulos pueden combinarse, y más de 600 establecimientos asistenciales utilizan sistemas Datatech. Para evaluar el sistema, puede solicitar una demostración desde la página de contacto.
 
 ###
 ### ¿Cómo factura una clínica o un sanatorio las prestaciones médicas con el sistema?
@@ -1706,13 +1706,13 @@ Con el sistema Datatech de medicina prepaga, la empresa factura a sus afiliados 
 
 ###
 ### ¿El sistema gestiona autorizaciones en línea con prepagas y validadores como Traditum?
-Sí, el sistema Datatech para hospitales y sanatorios incluye interfaces para autorizaciones en línea con diversas prepagas. Entre otros desarrollos, Datatech hizo la interfaz para el web service con el que Sancor Salud comenzó a autorizar prestaciones de pacientes ambulatorios. En 2017 también modificó sus sistemas y los probó en forma directa con Traditum, antes de un cambio en los servidores centrales de Traditum que afectaba la validación en línea. Consulte con Datatech qué financiadores están disponibles hoy para su institución.
+Sí, el sistema Datatech para hospitales y sanatorios incluye interfaces para autorizaciones en línea con diversas prepagas y validadores. Con Traditum, los usuarios realizan la validación en línea de las prestaciones. Con Sancor Salud, el sistema se conecta al web service con el que la prepaga autoriza las prestaciones de pacientes ambulatorios. En 2017, Datatech adaptó sus sistemas a un cambio en los servidores centrales de Traditum antes de que entrara en vigencia.
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -1731,7 +1731,7 @@ Funcionalidades
 
 La historia clínica del sistema Datatech reúne las consultas médicas, internaciones, protocolos de laboratorio y estudios diagnósticos de cada paciente. Funciona dentro del mismo sistema con el que su institución administra turnos, camas, medicación y facturación de prestaciones.
 
-Solicitar informaciónVer qué registra
+Solicitar una demostraciónVer qué registra
 
 ## Qué registra la historia clínica electrónica
 
@@ -1747,6 +1747,7 @@ La historia clínica reúne la información clínica de cada paciente. En el mis
 ### Internación
 
 - Pacientes internados
+- Registro de enfermería
 - Manejo de camas
 - Administración de pisos
 
@@ -1787,11 +1788,11 @@ Caso de cliente
 
 ## Historia clínica electrónica en internación
 
-La Clínica AMEBPBA comenzó a usar la historia clínica electrónica de Datatech para sus pacientes internados.
+La Clínica AMEBPBA utiliza la historia clínica electrónica de Datatech para sus pacientes internados.
 
 Ver el caso de la Clínica AMEBPBA
 
-Junto con la puesta en marcha de la historia clínica electrónica para internados, el departamento de enfermería de la clínica complementó ese uso con el registro de enfermería correspondiente. El equipo de enfermería recibió capacitación para hacerlo.
+El departamento de enfermería de la clínica complementa la historia clínica de cada internado con el registro de enfermería correspondiente. El equipo de enfermería recibió capacitación para hacerlo.
 
 En el sistema Datatech, la internación se gestiona junto con el manejo de camas y la administración de pisos. La historia clínica de cada paciente registra sus internaciones junto con sus consultas médicas, protocolos de laboratorio y estudios diagnósticos.
 
@@ -1813,7 +1814,7 @@ En el Sanatorio de la Providencia, de la Ciudad de Buenos Aires, la primera fase
 
 -
 ### Segunda fase, operaciones médicas
-La segunda fase del proyecto incluía las operaciones médicas. Al cierre de la primera fase, el proyecto preveía iniciar la capacitación para el uso de registros médicos y para la administración de quirófanos y trámites internos.
+La segunda fase del proyecto comprendía las operaciones médicas, con la capacitación del personal para el uso de registros médicos y para la administración de quirófanos y trámites internos.
 
 ## Se combina con otras funcionalidades
 
@@ -1848,29 +1849,29 @@ Preguntas frecuentes
 
 ###
 ### ¿Qué incluye la historia clínica electrónica de Datatech?
-La historia clínica electrónica de Datatech reúne las consultas médicas, las internaciones, los protocolos de laboratorio y los estudios diagnósticos de cada paciente. Forma parte del sistema Datatech para hospitales y sanatorios, que también maneja la medicación por nombre comercial y por droga, los pacientes ambulatorios e internados, las camas, la administración de pisos y la atención en consultorios con cola de pacientes en espera.
+La historia clínica electrónica de Datatech incluye, en un único registro por paciente, sus consultas médicas, internaciones, protocolos de laboratorio y estudios diagnósticos. En internación se complementa con el registro de enfermería. Forma parte del sistema Datatech para hospitales y sanatorios, que también maneja la medicación por nombre comercial y por droga, las camas y la administración de pisos. Para verla en funcionamiento, puede solicitar una demostración desde la página de contacto.
 
 ###
 ### ¿Se puede usar la historia clínica electrónica para pacientes internados?
-Sí, la historia clínica electrónica de Datatech registra las internaciones de cada paciente, y el sistema maneja pacientes internados. La Clínica AMEBPBA comenzó a usar la historia clínica electrónica para sus pacientes internados. Al mismo tiempo, su departamento de enfermería, que había recibido capacitación, complementó ese uso con el registro de enfermería correspondiente. El sistema Datatech para hospitales y sanatorios incluye además el manejo de camas y la administración de pisos.
+Sí, la historia clínica electrónica de Datatech registra las internaciones de cada paciente, y el sistema maneja pacientes internados. En la Clínica AMEBPBA, cada paciente internado tiene su historia clínica electrónica, y el personal de enfermería, capacitado para hacerlo, suma el registro de enfermería correspondiente. El sistema Datatech para hospitales y sanatorios incluye además el manejo de camas y la administración de pisos.
 
 ###
 ### ¿Sirve para clínicas con consultorios externos, además de internación?
-Sí, la historia clínica electrónica de Datatech sirve para clínicas con consultorios externos y para instituciones con internación. El sistema está pensado tanto para instituciones que atienden internaciones, pacientes ambulatorios y guardia como para centros médicos con varios consultorios. Para los consultorios incluye un sistema de atención con cola de pacientes en espera, y los turnos se administran en el mismo sistema. La historia clínica de cada paciente reúne sus consultas médicas junto con sus internaciones, protocolos de laboratorio y estudios diagnósticos.
+Sí, la historia clínica electrónica de Datatech sirve para clínicas con consultorios externos y para instituciones con internación. El sistema está pensado tanto para instituciones que atienden internaciones, pacientes ambulatorios y guardia como para centros médicos con varios consultorios. Para los consultorios incluye un sistema de atención con cola de pacientes en espera, y los turnos se administran en el mismo sistema. En los dos casos, cada consulta queda en la misma historia clínica que las internaciones, los protocolos de laboratorio y los estudios diagnósticos del paciente.
 
 ###
 ### ¿La historia clínica forma parte del mismo sistema que la facturación y el laboratorio?
-Sí, la historia clínica electrónica es parte del sistema integrado de Datatech, que cubre las operaciones administrativas, las operativas y los registros médico-asistenciales del sanatorio. Ese sistema incluye también laboratorio de análisis clínicos, servicios de diagnóstico, facturación de prestaciones y liquidación de honorarios médicos. Está concebido para minimizar el ingreso de datos, porque a partir de las solicitudes de prestaciones se van agregando los datos que forman la base de información.
+Sí, la historia clínica electrónica es parte del sistema integrado de Datatech, el mismo software con el que el sanatorio resuelve su gestión administrativa, su operación diaria y sus registros médico-asistenciales. Ese sistema incluye también laboratorio de análisis clínicos, servicios de diagnóstico, facturación de prestaciones y liquidación de honorarios médicos. Su diseño minimiza el ingreso de datos, ya que la base de información se forma con los datos que se agregan a partir de cada solicitud de prestación.
 
 ###
 ### ¿Cómo se implementa la historia clínica electrónica en un sanatorio?
-La historia clínica electrónica puede implementarse por etapas, después de los circuitos administrativos, en un proyecto conjunto entre el personal de la institución y el de Datatech, que brinda servicios de implementación y capacitación. En el Sanatorio de la Providencia, de la Ciudad de Buenos Aires, el proyecto se dividió en dos fases. La primera, de orden administrativo, se puso en marcha en 6 meses y se redactaron sus manuales de operación y procedimientos. La segunda incluía las operaciones médicas, y el proyecto preveía luego la capacitación para el uso de registros médicos y la administración de quirófanos.
+La historia clínica electrónica puede implementarse por etapas, después de los circuitos administrativos, en un proyecto conjunto entre el personal de la institución y el de Datatech, que brinda servicios de implementación y capacitación. El Sanatorio de la Providencia, de la Ciudad de Buenos Aires, trabaja con el sistema Datatech, y su proyecto se dividió en dos fases. La primera, de orden administrativo, se puso en marcha en 6 meses, y durante esa fase se redactaron los manuales de operación y procedimientos. La segunda sumaba las operaciones médicas, como los registros médicos y la administración de quirófanos.
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -1889,7 +1890,7 @@ Funcionalidades
 
 La liquidación de honorarios médicos forma parte de los sistemas Datatech para hospitales, sanatorios y centros de diagnóstico. Se resuelve en el mismo sistema que factura las prestaciones, con caja y bancos e interfaces contables.
 
-Solicitar informaciónVer qué incluye
+Solicitar una demostraciónVer qué incluye
 
 ## Qué incluye en cada sistema
 
@@ -2001,7 +2002,7 @@ La liquidación de honorarios médicos está incluida en el sistema Datatech par
 
 ###
 ### ¿Qué modalidades de liquidación de honorarios médicos admite el sistema Datatech?
-El sistema Datatech para hospitales y sanatorios liquida honorarios médicos en una amplia variedad de modos, y el sistema Datatech para centros de diagnóstico también incluye la liquidación de honorarios médicos. Como cada institución acuerda condiciones propias con sus profesionales, conviene revisar sus esquemas concretos con Datatech antes de implementar. Entre los servicios de Datatech figuran el análisis de la situación, la adecuación y adaptación de los sistemas y el desarrollo de módulos complementarios.
+El sistema Datatech para hospitales y sanatorios admite una amplia variedad de modos de liquidación de honorarios médicos. Como cada institución acuerda condiciones propias con sus profesionales, conviene revisar sus esquemas concretos con Datatech antes de implementar. Para ver cómo se aplican a su caso, puede solicitar una demostración desde la página de contacto. Entre los servicios de Datatech figuran el análisis de la situación, la adecuación y adaptación de los sistemas y el desarrollo de módulos complementarios.
 
 ###
 ### ¿Se pueden llevar cuentas corrientes por profesional?
@@ -2009,20 +2010,20 @@ Sí, en el sistema Datatech para hospitales y sanatorios. Incluye cuentas corrie
 
 ###
 ### ¿Por qué conviene liquidar los honorarios en el mismo sistema que factura las prestaciones?
-Porque los honorarios corresponden a las mismas prestaciones que la institución factura a obras sociales, prepagas y pacientes. Si la liquidación se hace en una planilla aparte, la administración vuelve a cargar datos y debe conciliar dos fuentes que deberían coincidir. Con un solo registro por prestación hay menos errores de carga, menos diferencias entre lo facturado y lo liquidado y menos tiempo de control al cierre de cada período.
+Porque la facturación y los honorarios parten del mismo dato, que es la prestación realizada al paciente. Si cada área trabaja con un registro propio, una corrección en la factura debe repetirse a mano en la liquidación y las diferencias se detectan tarde. Con un único registro por prestación, la administración trabaja sobre la misma información desde la atención del paciente hasta el pago al profesional, con menos errores de carga y menos diferencias entre lo facturado y lo liquidado.
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
 
 URL: https://www.datatech.com.ar/funcionalidades/turnos-web-y-autoadmision/
 Título: Turnos online y autoadmisión para clínicas · Datatech
-Resumen: Turnos y recepción de pacientes en sistemas Datatech para clínicas, sanatorios y centros de diagnóstico, y los turnos web y la autoadmisión de Clínica Bessone.
+Resumen: Turnos web, autoadmisión con credencial y recepción de pacientes en los sistemas Datatech para clínicas, sanatorios y centros de diagnóstico.
 
 - Inicio
 - Funcionalidades
@@ -2032,29 +2033,29 @@ Funcionalidades
 
 # Turnos online y autoadmisión para clínicas y sanatorios
 
-Los sistemas Datatech para hospitales, sanatorios y centros de diagnóstico incluyen la asignación de turnos, la atención en consultorios y el control de pacientes en áreas técnicas. En Clínica Bessone, de San Miguel, ese circuito se completó con turnos web y autoadmisión con credencial.
+Los sistemas Datatech para hospitales, sanatorios y centros de diagnóstico incluyen la asignación de turnos, la atención en consultorios y el control de pacientes en áreas técnicas. Con turnos web y autoadmisión con credencial, los pacientes se asignan su turno y se admiten por su cuenta, como en Clínica Bessone, de San Miguel.
 
-Solicitar informaciónVer cómo funciona
+Solicitar una demostraciónVer cómo funciona
 
 Caso de cliente
 
 ## Autoadmisión con credencial en Clínica Bessone
 
-Clínica Bessone, de San Miguel (provincia de Buenos Aires), inició la atención de pacientes con un modelo autogestionado. Según la nota publicada entonces, el modelo reducía el tiempo de espera de los pacientes y minimizaba la carga administrativa.
+Clínica Bessone, de San Miguel (provincia de Buenos Aires), atiende a sus pacientes con un modelo autogestionado que reduce el tiempo de espera de los pacientes y minimiza la carga administrativa.
 
 Ver el caso
 
 -
-### El paciente sacaba su turno por la web
-Con turnos web, los pacientes se asignaban sus propios turnos. Desde el mismo servicio podían consultarlos o cancelarlos con anticipación.
+### El paciente saca su turno por la web
+Con turnos web, los pacientes se asignan sus propios turnos. Desde el mismo servicio pueden consultarlos o cancelarlos con anticipación.
 
 -
-### Al llegar, pasaba su credencial
-El paciente con cita previa hacía la autoadmisión pasando su credencial. Los pacientes de guardia se admitían de la misma manera.
+### Al llegar, pasa su credencial
+El paciente con cita previa hace la autoadmisión pasando su credencial. Los pacientes de guardia se admiten de la misma manera.
 
 -
-### Solo los pacientes con copagos hacían un trámite
-Únicamente los pacientes que tenían copagos debían realizar algún trámite administrativo. Los demás completaban la admisión con su credencial.
+### Solo los pacientes con copagos hacen un trámite
+Únicamente los pacientes que tienen copagos deben realizar algún trámite administrativo. Los demás completan la admisión con su credencial.
 
 ## Turnos y recepción en el sistema de gestión
 
@@ -2092,7 +2093,7 @@ La autoadmisión con credencial deja al personal administrativo los trámites qu
 
 En el circuito tradicional, cada paciente pasa por la mesa de admisión aunque ya tenga su turno asignado. La fila se forma también con pacientes cuyo trámite solo confirma datos que la institución ya tiene.
 
-Con la autoadmisión, el paciente registra su llegada con su credencial y el personal administrativo atiende a quienes necesitan un trámite, como los pacientes con copago. Ese fue el criterio del modelo autogestionado de Clínica Bessone, aplicado tanto a los pacientes con cita previa como a los de guardia.
+Con la autoadmisión, el paciente registra su llegada con su credencial y el personal administrativo atiende a quienes necesitan un trámite, como los pacientes con copago. Ese es el criterio del modelo autogestionado de Clínica Bessone, que lo aplica tanto a los pacientes con cita previa como a los de guardia.
 
 El sistema Datatech para hospitales y sanatorios está concebido para minimizar el ingreso de datos. A partir de las solicitudes de prestaciones se van agregando los datos que forman la base de información de la institución.
 
@@ -2117,15 +2118,15 @@ Preguntas frecuentes
 
 ###
 ### ¿Datatech ofrece turnos online para clínicas y sanatorios?
-El sistema Datatech para hospitales y sanatorios incluye turnos, y en Clínica Bessone, de San Miguel, ese circuito se complementó con turnos web. Allí los pacientes se asignaban sus propios turnos por la web, podían consultarlos y cancelarlos con anticipación. Para saber cómo se aplicaría en su institución y con qué módulos, contáctenos y analizamos juntos su circuito de atención actual.
+Sí. Datatech ofrece turnos web, con los que cada paciente se asigna su turno y puede consultarlo o cancelarlo con anticipación. El sistema Datatech para hospitales y sanatorios incluye además los turnos y la atención en consultorios con cola de pacientes en espera. Clínica Bessone, de San Miguel, combina los turnos web con la autoadmisión con credencial. Para ver cómo funcionaría en su institución, puede solicitar una demostración desde la página de contacto.
 
 ###
 ### ¿Cómo funciona la autoadmisión de pacientes con credencial?
-El paciente se admite por su cuenta pasando su credencial. Así funcionaba el modelo autogestionado que inició Clínica Bessone, de San Miguel, donde la autoadmisión se usaba para pacientes con cita previa y para pacientes de guardia, y solo los pacientes con copagos debían realizar algún trámite administrativo. Según se informó en su momento, el modelo reducía el tiempo de espera de los pacientes y minimizaba la carga administrativa.
+El paciente se admite por su cuenta pasando su credencial. La autoadmisión sirve para pacientes con cita previa y para pacientes de guardia, y complementa los turnos web, donde el paciente se asigna el turno. Clínica Bessone, de San Miguel, trabaja con este modelo autogestionado y logra así menos tiempo de espera para sus pacientes y una menor carga administrativa.
 
 ###
 ### Con la autoadmisión, ¿qué pacientes pasan por la mesa de admisión?
-En el modelo de autoadmisión de Clínica Bessone, solo los pacientes con copagos realizaban un trámite administrativo, y los demás pacientes con cita previa o de guardia se admitían con su credencial. Para esos cobros, el sistema Datatech para hospitales y sanatorios calcula en línea los importes a cobrar al paciente y registra la cobranza en el subdiario de cajas. También lleva las cuentas corrientes de obras sociales y de pacientes.
+Solo los pacientes con copagos deben realizar un trámite administrativo en el modelo de autoadmisión de Clínica Bessone. Los pacientes con cita previa o de guardia que no tienen copagos se admiten con su credencial. Para esos cobros, el sistema Datatech para hospitales y sanatorios calcula en línea los importes a cobrar al paciente y registra la cobranza en el subdiario de cajas. También lleva las cuentas corrientes de obras sociales y de pacientes.
 
 ###
 ### ¿Los turnos y la recepción funcionan también en centros de diagnóstico?
@@ -2137,16 +2138,16 @@ La implementación de los turnos y la admisión en el sistema Datatech se planif
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
 
 URL: https://www.datatech.com.ar/integraciones/
 Título: Autorizaciones en línea e integraciones · Datatech
-Resumen: Interfaces de Datatech para prestadores de salud: autorizaciones en línea con prepagas, precios de medicamentos, equipos de laboratorio y contabilidad.
+Resumen: Interfaces de Datatech para prestadores de salud: autorizaciones en línea con Traditum y Sancor Salud, factura electrónica ARCA, medicamentos y laboratorio.
 
 - Inicio
 - Funcionalidades
@@ -2156,30 +2157,30 @@ Integraciones
 
 # Integraciones y autorizaciones en línea para prestadores de salud
 
-Los sistemas Datatech incluyen interfaces para autorizaciones en línea con diversas prepagas, actualización de precios de medicamentos, equipos de laboratorio y contabilidad. Para otras conexiones, Datatech ofrece el servicio de desarrollo de interfaces.
+Con los sistemas Datatech, su institución autoriza en línea con Traditum y Sancor Salud, emite factura electrónica de ARCA (ex AFIP) y cuenta con interfaces para precios de medicamentos, equipos de laboratorio y contabilidad. Para otras conexiones, Datatech ofrece el servicio de desarrollo de interfaces.
 
-Consultar por una integraciónVer las integraciones
+Solicitar una demostraciónVer las integraciones
 
 ## Autorizaciones en línea con financiadores
 
 El sistema para hospitales y sanatorios incluye interfaces para autorizaciones en línea con diversas prepagas, de modo que el prestador autoriza desde su propio sistema de gestión. Estos son algunos ejemplos, del lado del prestador y del lado de la prepaga.
 
 ### Sancor Salud por web service
-Cuando Sancor Salud anunció la autorización de prestaciones de pacientes ambulatorios por medio de un web service, Datatech desarrolló la interfaz y la puso a disposición de sus usuarios con sus instructivos. La interfaz permitía autorizar en la misma modalidad que las demás autorizaciones en línea del sistema.
+Los usuarios autorizan en línea con Sancor Salud las prestaciones de pacientes ambulatorios, mediante la interfaz de Datatech para el web service de Sancor Salud. La autorización se hace en la misma modalidad que las demás autorizaciones en línea del sistema.
 
 ### Validación en línea con Traditum
-Traditum anunció para el 12 de septiembre de 2017 un cambio en los sistemas de sus servidores centrales que afectaba la autorización en línea. Datatech modificó sus sistemas antes de esa fecha, probó los cambios en forma directa con Traditum y los entregó a sus usuarios en una actualización.
+El sistema se integra con la validación en línea de Traditum. Cuando Traditum anunció para el 12 de septiembre de 2017 un cambio en los sistemas de sus servidores centrales, Datatech modificó sus sistemas antes de esa fecha y probó los cambios en forma directa con Traditum.
 
 ### Autorizaciones en la prepaga
 En el sistema de medicina prepaga, los controles verifican en todo momento la elegibilidad del socio y el estado de sus consumos. Al autorizar, el sistema genera los consumos y los copagos que correspondan según la cobertura definida.
 
 ## Interfaces con organismos, proveedores y equipos
 
-Estas son las interfaces que describen las soluciones Datatech, agrupadas por tema, junto con las funciones del sistema relacionadas con cada una.
+Estas son las interfaces de los sistemas Datatech, agrupadas por tema, junto con las funciones del sistema relacionadas con cada una.
 
 ### Factura electrónica y facturación
 
-- Avisos de Datatech a sus usuarios sobre los certificados de factura electrónica de AFIP, hoy ARCA
+- Factura electrónica de ARCA (ex AFIP) con certificados digitales
 - Facturación de prestaciones en todas sus modalidades
 - Facturación automática del laboratorio según las normas vigentes
 - Subdiarios de ventas y de facturación
@@ -2225,7 +2226,7 @@ Ver todos los servicios
 
 El desarrollo de interfaces es uno de los servicios que Datatech brinda a sus usuarios, junto con la conectividad, la adecuación y adaptación de los sistemas, el desarrollo de módulos complementarios y el diseño de aplicaciones especiales. Los servicios se contratan en su totalidad o en las combinaciones que se requieran, según las necesidades de cada cliente.
 
-Dos noticias publicadas por Datatech muestran cómo acompañó cambios de los financiadores. Cuando Sancor Salud anunció la autorización por web service, Datatech desarrolló la interfaz nueva. Cuando Traditum anunció en 2017 un cambio en sus servidores centrales, Datatech adaptó sus sistemas. En ambos casos, Datatech entregó los cambios a sus usuarios.
+Las interfaces con Sancor Salud y Traditum muestran cómo Datatech acompaña los cambios de los financiadores. La primera se desarrolló para el nuevo web service de autorizaciones de Sancor Salud, y la segunda se adaptó al cambio de servidores centrales que Traditum hizo en 2017. En ambos casos, los usuarios recibieron los cambios de Datatech en sus sistemas.
 
 Para consultar por una interfaz en particular, contáctenos con el detalle del sistema, el equipo o el financiador con el que necesita conectarse.
 
@@ -2240,19 +2241,19 @@ Preguntas frecuentes
 
 ###
 ### ¿El sistema hace autorizaciones en línea con obras sociales y prepagas?
-El sistema Datatech para hospitales y sanatorios incluye interfaces para autorizaciones en línea con diversas prepagas, y el prestador autoriza desde su propio sistema de gestión. Entre otras interfaces, Datatech desarrolló la del web service de autorizaciones ambulatorias de Sancor Salud y, en 2017, adaptó sus sistemas a un cambio en la validación en línea de Traditum. Consulte con Datatech qué obras sociales y prepagas están disponibles hoy para su institución.
+Sí, el sistema Datatech para hospitales y sanatorios tiene interfaces para autorizaciones en línea con diversas prepagas. Entre ellas están la validación en línea a través de Traditum y el web service de Sancor Salud para autorizaciones de pacientes ambulatorios. Si su institución trabaja con otro financiador, puede consultar por el servicio de desarrollo de interfaces de Datatech.
 
 ###
 ### ¿El sistema funciona con la validación en línea de Traditum?
-Los sistemas Datatech tuvieron interfaz con la validación en línea a través de Traditum, y en 2017 Datatech los adaptó a un cambio en los servidores centrales de Traditum. Los cambios se probaron en forma directa con Traditum y llegaron a los usuarios en una actualización que debía estar instalada antes de la fecha del cambio. Esa actualización no afectaba la interfaz con Traditum hasta que se activaban los parámetros correspondientes. Consulte con Datatech por el estado actual de la interfaz.
+Sí, los sistemas Datatech tienen interfaz con la validación en línea a través de Traditum, y el prestador valida con el mismo sistema que usa para su gestión diaria. En 2017, ante un cambio en los servidores centrales de Traditum, Datatech entregó la adaptación en una actualización que debía estar instalada antes de la fecha del cambio. Esa actualización no alteraba el funcionamiento de la interfaz con Traditum hasta que se activaban los parámetros correspondientes.
 
 ###
 ### ¿Se puede autorizar en línea con Sancor Salud desde el sistema?
-Datatech desarrolló la interfaz para el web service con el que Sancor Salud inició la autorización de prestaciones de pacientes ambulatorios. La interfaz se puso a disposición de los usuarios junto con sus instructivos, y permitía autorizar de manera transparente, en la misma modalidad que las demás autorizaciones en línea del sistema. Consulte con Datatech por el estado actual de la interfaz para su institución.
+Sí, el sistema autoriza prestaciones de pacientes ambulatorios a través del web service de Sancor Salud. El usuario realiza la autorización de manera transparente desde su sistema de gestión, de acuerdo con el contrato vigente entre su institución y Sancor Salud. Datatech desarrolló esta interfaz cuando Sancor Salud empezó a autorizar por web service y la entregó a sus usuarios junto con los instructivos correspondientes.
 
 ###
 ### ¿El sistema emite factura electrónica de ARCA, ex AFIP?
-Los usuarios Datatech ya facturaban en forma electrónica con certificados digitales de AFIP, el organismo que hoy se llama ARCA, según los avisos que Datatech publicó para ellos. Cuando AFIP anunció un cambio en el algoritmo de encriptación de esos certificados, Datatech informó que los certificados vigentes podían usarse hasta su vencimiento, que el trámite para obtenerlos no cambiaba y que se podía seguir facturando como hasta entonces. Para conocer cómo funciona hoy la factura electrónica con ARCA en su sistema, consulte con Datatech.
+Sí, los usuarios Datatech emiten factura electrónica con los certificados digitales de ARCA, el organismo antes llamado AFIP. Cuando AFIP cambió el algoritmo de encriptación de esos certificados, los certificados en uso pudieron utilizarse hasta su vencimiento y el trámite para obtenerlos no cambió, de modo que los usuarios pudieron seguir facturando como hasta entonces. Para ver la factura electrónica en funcionamiento, puede solicitar una demostración desde la página de contacto.
 
 ###
 ### ¿El sistema de laboratorio se conecta con los equipos de análisis?
@@ -2260,13 +2261,13 @@ Sí, el sistema para laboratorios de análisis clínicos tiene interfaces autom�
 
 ###
 ### ¿Datatech desarrolla interfaces a medida con otros sistemas?
-Sí, el desarrollo de interfaces es uno de los servicios de Datatech. Los servicios se contratan en su totalidad o en las combinaciones que se requieran, según las necesidades de cada cliente, e incluyen también la adecuación y adaptación de los sistemas, el desarrollo de módulos complementarios y el diseño de aplicaciones especiales. Los sistemas ya incluyen interfaces contables y de actualización de precios de medicamentos con información de los principales proveedores del mercado.
+Sí, el desarrollo de interfaces es un servicio de Datatech que puede contratarse solo o combinado con otros servicios, según lo que necesite cada institución. Además de las autorizaciones en línea con Traditum y Sancor Salud, los sistemas ya incluyen interfaces contables y de actualización de precios de medicamentos con información de los principales proveedores del mercado.
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -2284,7 +2285,7 @@ Servicios
 
 Análisis, planeamiento, implementación, capacitación y soporte de los sistemas Datatech en sanatorios, hospitales, laboratorios, centros de diagnóstico y empresas de medicina prepaga. Los servicios se contratan en su totalidad o en las combinaciones que se requieran, según las necesidades de cada cliente.
 
-Consultar por un servicioVer cómo es una implementación
+Solicitar una demostraciónVer cómo es una implementación
 
 Etapa 1
 ## Análisis y planeamiento
@@ -2325,7 +2326,7 @@ Sistemas que acompañan los cambios de la institución y del sector.
 
 ## Cómo es una implementación
 
-Dos casos de clientes publicados por Datatech muestran la puesta en marcha por fases de un sanatorio y la decisión de un instituto de migrar su sistema de medicina prepaga.
+Dos casos de clientes muestran la puesta en marcha por fases de un sanatorio y la decisión de un instituto de migrar su sistema de medicina prepaga.
 
 Guía de implementación
 
@@ -2333,7 +2334,7 @@ Implementación por fases
 
 ### Sanatorio de la Providencia
 
-Ciudad Autónoma de Buenos Aires. El proyecto se dividió en dos fases y se llevó a cabo en forma conjunta entre personal del Sanatorio y personal de Datatech.
+Ciudad Autónoma de Buenos Aires. El Sanatorio trabaja con el sistema Datatech. Su puesta en marcha se dividió en dos fases y se llevó a cabo en forma conjunta entre personal del Sanatorio y personal de Datatech.
 
 Ver el caso
 
@@ -2343,21 +2344,21 @@ La primera fase fue de orden administrativo y se completó en un plazo de 6 mese
 
 -
 ### Fase de operaciones médicas
-La segunda fase incluía las operaciones médicas. Al cerrar la primera, la etapa siguiente anunciada era la capacitación para el uso de registros médicos, la administración de quirófanos y los trámites internos.
+La segunda fase incluyó las operaciones médicas. Una vez completada la primera, siguió la etapa de capacitación para el uso de registros médicos, la administración de quirófanos y los trámites internos.
 
 Migración de sistema
 
 ### Instituto Dorrego S.A.
 
-Rosario, Santa Fe. Una institución que ya trabajaba con los sistemas Datatech decidió migrar su sistema de medicina prepaga a la versión gráfica.
+Rosario, Santa Fe. El Instituto trabaja con los sistemas integrados de Datatech.
 
 Ver el caso
 
-- Punto de partida: Desde hacía varios años, el Instituto cubría todas las operaciones del Sanatorio Rosendo García, administrativas, operativas y de registros médico asistenciales, con el Sistema Integrado de Gestión Médico Administrativa Datatech en su versión gráfica.
+- Punto de partida: Desde hace varios años, el Instituto cubre todas las operaciones del Sanatorio Rosendo García, administrativas, operativas y de registros médico asistenciales, con el Sistema Integrado de Gestión Médico Administrativa Datatech en su versión gráfica.
 
 - Decisión: A partir del éxito obtenido con los sistemas integrados, y con el objetivo de consolidar la información, el Instituto decidió migrar también su sistema de medicina prepaga a la versión gráfica.
 
-- Objetivo: Según la noticia publicada, la migración le permitiría sumar confiabilidad y estabilidad, y sentar las bases para expandir su oferta de servicios a otras localidades de la provincia de Santa Fe.
+- Resultado: La migración le da al Instituto mayor confiabilidad y estabilidad, y sienta las bases para expandir su oferta de servicios a otras localidades de la provincia de Santa Fe.
 
 Calidad certificada
 
@@ -2382,7 +2383,7 @@ Qué tener en cuenta antes, durante y después de la puesta en marcha.
 →
 
 ### Casos de clientes
-Experiencias publicadas de sanatorios, clínicas y centros de diagnóstico.
+Experiencias de sanatorios, clínicas y centros de diagnóstico que trabajan con Datatech.
 →
 
 ### Integraciones
@@ -2394,33 +2395,33 @@ Preguntas frecuentes
 
 ###
 ### ¿Datatech tiene un plazo estándar de implementación?
-No, el plazo depende del alcance de cada proyecto, y Datatech no publica un plazo estándar. Como referencia, en el Sanatorio de la Providencia la primera fase de la puesta en marcha, de orden administrativo, se completó en un plazo de 6 meses, acorde a los cronogramas realizados en forma conjunta con el cliente. La segunda fase incluía las operaciones médicas. El software Datatech para hospitales y sanatorios es modular, y los servicios se contratan en su totalidad o en las combinaciones que se requieran.
+No, el plazo depende del alcance de cada proyecto. Como referencia, en el Sanatorio de la Providencia la primera fase de la puesta en marcha, de orden administrativo, se completó en 6 meses, según los cronogramas acordados con el cliente, y luego siguió una segunda fase con las operaciones médicas. Como el software Datatech para hospitales y sanatorios es modular, cada institución define qué módulos y qué servicios incorpora, y eso determina el alcance y el cronograma de su proyecto.
 
 ###
 ### ¿Datatech trabaja junto con el personal de la institución durante la puesta en marcha?
-Sí. En el Sanatorio de la Providencia, por ejemplo, la puesta en marcha se llevó a cabo en forma conjunta entre personal del Sanatorio y personal de Datatech. El proyecto se dividió en dos fases, la primera de orden administrativo y la segunda con las operaciones médicas, y los manuales de operación y procedimientos se redactaron mientras se implementaba el sistema. Los cronogramas también se realizaron en forma conjunta con el cliente. El software para hospitales y sanatorios es modular y se adapta a las necesidades y posibilidades de cada institución.
+Sí. En el Sanatorio de la Providencia, por ejemplo, el personal del Sanatorio y el de Datatech llevaron adelante juntos la puesta en marcha, en dos fases, la administrativa y la de operaciones médicas. Durante esa misma implementación se elaboraron los manuales de operación y procedimientos del Sanatorio. Ese trabajo conjunto responde a la política de la calidad de Datatech, que busca establecer vínculos duraderos con cada cliente a través del soporte, la asistencia técnica y la capacitación.
 
 ###
 ### ¿Cómo es la capacitación en el sistema de gestión?
-La capacitación de Datatech forma a los usuarios para el uso de los sistemas en su tarea diaria. En el Sanatorio de la Providencia, la etapa anunciada después de la fase administrativa era la capacitación para el uso de registros médicos, la administración de quirófanos y los trámites internos. El Instituto Modelo de Cardiología, de Córdoba, pasó a administrarse con el sistema Datatech después de una intensa capacitación de su personal. La capacitación figura en el alcance de la certificación IRAM-ISO 9001:2015 de Datatech.
+Datatech capacita al personal de cada área de la institución para operar los sistemas que va a usar. En el Sanatorio de la Providencia, a la fase administrativa le siguió una etapa de capacitación en registros médicos, administración de quirófanos y trámites internos. El Instituto Modelo de Cardiología, de Córdoba, se administra con el Sistema Integrado de Gestión Médico Administrativa de Datatech, que adoptó después de una intensa capacitación de su personal. La capacitación está incluida en el alcance de la certificación IRAM-ISO 9001:2015 de Datatech.
 
 ###
 ### ¿Qué pasa con el sistema cuando cambian los requisitos de los financiadores?
-Datatech ofrece la adecuación de los sistemas ante cambios en los requisitos de financiadores y organismos, y en los avisos publicados entregó esas modificaciones como actualizaciones. En 2017, Datatech avisó que Traditum implementaría el 12 de septiembre un cambio en los sistemas de sus servidores centrales que afectaba la autorización en línea. Los sistemas Datatech ya habían sido modificados y probados en forma directa con Traditum, y los cambios se entregaron en las actualizaciones enviadas desde el 8 de agosto. Quienes no las habían recibido debían comunicarse con Soporte Técnico.
+Datatech adecua los sistemas ante cambios en los requisitos de financiadores y organismos y entrega esas modificaciones en las actualizaciones. Por ejemplo, en 2017 Traditum implementó un cambio en los sistemas de sus servidores centrales que afectaba la autorización en línea. Los sistemas Datatech se modificaron y se probaron en forma directa con Traditum antes del cambio, y las modificaciones se entregaron en las actualizaciones enviadas desde el 8 de agosto. El sistema se integra con Traditum para la validación en línea.
 
 ###
 ### ¿Cuánto cuestan el sistema y los servicios de implementación?
-Datatech no publica precios en este sitio, así que para conocer el costo de su proyecto debe pedir una propuesta. El software es modular y los servicios se contratan en su totalidad o en las combinaciones que se requieran, por lo que la propuesta depende de los módulos y los servicios que elija cada institución. Para pedirla, contáctenos desde la página de contacto o al (54-11) 4374-1002 y cuéntenos qué tipo de institución es la suya, qué áreas quiere incorporar y qué servicios necesita.
+El costo se define en una propuesta para cada proyecto, según los módulos y los servicios que elija la institución. El software es modular y cada servicio puede contratarse por separado o en conjunto con otros. Para pedir una propuesta, llame al (54-11) 4374-1002 o escríbanos desde la página de contacto, y cuéntenos qué tipo de institución es la suya, qué áreas quiere incorporar y qué servicios necesita. Antes de decidir, también puede solicitar una demostración de los sistemas Datatech desde la página de contacto.
 
 ###
 ### ¿Datatech hace desarrollos a medida?
-Sí, Datatech desarrolla módulos complementarios que se integran a los sistemas existentes, diseña aplicaciones especiales para necesidades particulares de cada cliente y desarrolla interfaces con equipos, financiadores y otros sistemas. Por ejemplo, para la autorización de prestaciones de pacientes ambulatorios por medio de un web service de Sancor Salud, Datatech desarrolló la interfaz correspondiente y la distribuyó a sus usuarios con los instructivos. Así, los usuarios podían hacer esas autorizaciones de la misma manera que otras autorizaciones en línea existentes.
+Sí. Entre sus servicios, Datatech ofrece desarrollo de software, módulos complementarios, aplicaciones especiales e interfaces, y adecua los sistemas a la operatoria de cada institución. Por ejemplo, Datatech desarrolló la interfaz con el web service de Sancor Salud para la autorización de prestaciones de pacientes ambulatorios y la distribuyó a sus usuarios con los instructivos correspondientes. Con ella, los usuarios Datatech gestionan las autorizaciones en línea de Sancor Salud en la misma modalidad que las demás autorizaciones en línea.
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -2449,6 +2450,8 @@ IRAM-ISO 9001:2015
 
 - Registro: N.º 9000-2878
 
+- Estado: Vigente
+
 Alcance: prestación de servicios de capacitación, implementación y soporte técnico de software para empresas de salud.
 
 Política de la calidad
@@ -2475,15 +2478,15 @@ Preguntas frecuentes
 
 ###
 ### ¿Qué certifica la norma IRAM-ISO 9001:2015 en Datatech?
-La certificación IRAM-ISO 9001:2015 de Datatech cubre la prestación de servicios de capacitación, implementación y soporte técnico de software para empresas de salud. Ese es el alcance que figura en el certificado emitido por IRAM. Lo que se certifica es el sistema de gestión de la calidad con que Datatech presta esos servicios a sus clientes, es decir, la forma en que planifica, realiza, controla y mejora la capacitación, la implementación y el soporte técnico.
+La certificación IRAM-ISO 9001:2015 de Datatech cubre la prestación de servicios de capacitación, implementación y soporte técnico de software para empresas de salud. Ese es el alcance que figura en el certificado de IRAM. Lo que se certifica es el sistema de gestión de la calidad con que Datatech presta esos servicios a sus clientes, es decir, la forma en que planifica, realiza, controla y mejora la capacitación, la implementación y el soporte técnico.
 
 ###
-### ¿Quién certificó el sistema de gestión de la calidad de Datatech?
-El sistema de gestión de la calidad de Datatech fue certificado por IRAM, el Instituto Argentino de Normalización y Certificación. IRAM certifica que Datatech S.A. posee un sistema de gestión de la calidad que cumple con la norma IRAM-ISO 9001:2015, con alcance en la prestación de servicios de capacitación, implementación y soporte técnico de software para empresas de salud. La certificación está registrada con el número 9000-2878.
+### ¿Quién certifica el sistema de gestión de la calidad de Datatech?
+El sistema de gestión de la calidad de Datatech está certificado por IRAM, el Instituto Argentino de Normalización y Certificación, un organismo externo a la empresa. IRAM certifica que Datatech S.A. posee un sistema de gestión de la calidad que cumple con la norma IRAM-ISO 9001:2015 para sus servicios de capacitación, implementación y soporte técnico de software. La certificación está registrada con el número 9000-2878.
 
 ###
 ### ¿Cuál es el número de registro de la certificación ISO 9001 de Datatech?
-El número de registro es 9000-2878. Corresponde al Certificado de Registro que IRAM emitió para el sistema de gestión de la calidad de Datatech S.A. bajo la norma IRAM-ISO 9001:2015, con alcance en la prestación de servicios de capacitación, implementación y soporte técnico de software para empresas de salud. Para consultas sobre la certificación, puede comunicarse con Datatech al (54-11) 4374-1002 o desde el formulario de contacto.
+El número de registro es 9000-2878 y corresponde al Certificado de Registro de IRAM del sistema de gestión de la calidad de Datatech S.A. bajo la norma IRAM-ISO 9001:2015. Es el dato que conviene indicar al consultar por la certificación. Para hacerlo, puede comunicarse con Datatech al (54-11) 4374-1002 o desde el formulario de contacto.
 
 ###
 ### ¿Qué es la política de la calidad de Datatech?
@@ -2491,13 +2494,13 @@ La política de la calidad es el conjunto de compromisos con que Datatech orient
 
 ###
 ### ¿Qué significa la certificación ISO 9001 para una institución que contrata a Datatech?
-Significa que la capacitación, la implementación y el soporte técnico que recibe la institución se prestan dentro de un sistema de gestión de la calidad certificado por IRAM bajo la norma IRAM-ISO 9001:2015. La norma ISO 9001 se aplica a la organización y a sus procesos, exige que estén definidos, que se controlen y que mejoren en forma continua, y la certificación la otorga un organismo externo. La certificación de Datatech se refiere a esos tres servicios y no a las funcionalidades de los sistemas, que se describen en la página de cada solución.
+Significa que la capacitación, la implementación y el soporte técnico que recibe la institución se prestan dentro de un sistema de gestión de la calidad certificado por IRAM bajo la norma IRAM-ISO 9001:2015. La norma ISO 9001 se aplica a la organización y a sus procesos, exige que estén definidos, que se controlen y que mejoren en forma continua, y la certificación la otorga un organismo externo. La certificación de Datatech se refiere a esos tres servicios y no a las funcionalidades de los sistemas. Para conocer los sistemas, puede solicitar una demostración desde la página de contacto.
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -2533,10 +2536,10 @@ Leer la guía
 
 ## Más material para evaluar un sistema
 
-Experiencias de clientes, el detalle de cada funcionalidad y los servicios que acompañan la implementación.
+Experiencias de clientes, el detalle de cada funcionalidad y los servicios que acompañan la implementación. También puede solicitar una demostración del sistema.
 
 ### Casos de clientes
-Cómo sanatorios, clínicas y centros de diagnóstico implementaron los sistemas Datatech.
+Sanatorios, clínicas y centros de diagnóstico que trabajan con los sistemas Datatech y los resultados que obtuvieron.
 →
 
 ### Funcionalidades
@@ -2549,9 +2552,9 @@ Análisis de la situación, planeamiento, implementación, capacitación y mante
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -2622,7 +2625,7 @@ Esta lista de verificación sirve como planilla de evaluación. Puede puntuar a 
 
 - Soporte y actualizaciones. Obras sociales, prepagas y organismos cambian sus sistemas, normas y formatos. Averigüe cómo se entera el proveedor, con qué anticipación entrega la actualización y qué debe hacer su institución para instalarla.
 
-- Certificación de calidad de los servicios. Una certificación ISO 9001 indica que el proveedor trabaja con un sistema de gestión de la calidad auditado por un organismo externo. Revise el alcance del certificado, el organismo que lo emitió y su vigencia.
+- Certificación de calidad de los servicios. Si el proveedor tiene una certificación ISO 9001, revise el alcance del certificado, el organismo que lo emitió y su vigencia.
 
 - Referencias de instituciones similares. Pida contactos de sanatorios o clínicas de tamaño y complejidad parecidos que usen los módulos que usted necesita. Hable también con quienes operan el sistema todos los días.
 
@@ -2662,9 +2665,11 @@ PreguntaQué debería mostrar la respuesta
 
 Datatech S.A. fue creada en 1978 y desde 1987 se dedica exclusivamente a brindar soluciones informáticas para empresas vinculadas al área de la salud. Más de 600 establecimientos asistenciales utilizan sus sistemas en su operatoria diaria.
 
-Su sistema para hospitales y sanatorios es modular y resuelve internación, pacientes ambulatorios y guardia. Incluye facturación de prestaciones en toda la variedad de modalidades, liquidación de honorarios médicos, historia clínica, estadísticas e interfaces de autorizaciones en línea con diversas prepagas. En 2017, ante un cambio en los servidores centrales de Traditum que afectaba la validación en línea, Datatech modificó sus sistemas, los probó en forma directa con Traditum y entregó la actualización antes de la fecha del cambio.
+Su sistema para hospitales y sanatorios es modular y resuelve internación, pacientes ambulatorios y guardia. Incluye facturación de prestaciones en toda la variedad de modalidades, liquidación de honorarios médicos, historia clínica, estadísticas e interfaces de autorizaciones en línea con diversas prepagas, entre ellas Sancor Salud. El sistema también valida en línea con Traditum. En 2017, ante un cambio en los servidores centrales de Traditum que afectaba la validación en línea, Datatech modificó sus sistemas, los probó en forma directa con Traditum y entregó la actualización antes de la fecha del cambio.
 
-Sus servicios de análisis de la situación, implementación, capacitación y mantenimiento se pueden contratar en su totalidad o en las combinaciones que la institución necesite. Su sistema de gestión de la calidad obtuvo de IRAM la certificación IRAM-ISO 9001:2015, con alcance en la prestación de servicios de capacitación, implementación y soporte técnico de software para empresas de salud. Vea los casos de clientes o contáctenos para revisar los circuitos de su institución.
+Sus servicios de análisis de la situación, implementación, capacitación y mantenimiento se pueden contratar en su totalidad o en las combinaciones que la institución necesite. Su sistema de gestión de la calidad cuenta con la certificación IRAM-ISO 9001:2015, otorgada por IRAM, con alcance en la prestación de servicios de capacitación, implementación y soporte técnico de software para empresas de salud.
+
+Datatech ofrece demostraciones de sus sistemas. Puede solicitar una demostración para revisar los circuitos de su institución, o ver los casos de clientes.
 
 En esta guía
 
@@ -2703,9 +2708,9 @@ La certificación ISO 9001 de un proveedor de software indica que la empresa tra
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -2722,7 +2727,7 @@ Guía
 
 # Cómo implementar un sistema de gestión en salud
 
-Para directivos de sanatorios, clínicas, laboratorios, centros de diagnóstico y prepagas que van a poner en marcha un sistema de gestión o migrar el que tienen. Recorre cada etapa a partir de los servicios de Datatech y de casos publicados de sus clientes.
+Para directivos de sanatorios, clínicas, laboratorios, centros de diagnóstico y prepagas que van a poner en marcha un sistema de gestión o migrar el que tienen. Recorre cada etapa a partir de los servicios de Datatech y de casos de sus clientes.
 
 Por el equipo de DatatechPublicado el 21 de octubre de 2026
 
@@ -2760,13 +2765,13 @@ Con ese relevamiento se arma el plan. Datatech ofrece planeamiento estratégico 
 
 - Interfaces. Autorizaciones en línea, equipos de laboratorio, contabilidad.
 
-Con varias sedes, el plan define también cómo se consolida la información. A partir de la instalación de los sistemas integrados de Datatech, la Fundación Médica de Río Negro y Neuquén consolidó la información de sus tres unidades de negocio y centralizó su oficina de sistemas. También integró la Clínica Radiológica del Sur y la Clínica de Imágenes en una única instalación.
+Con varias sedes, el plan define también cómo se consolida la información. La Fundación Médica de Río Negro y Neuquén trabaja con los sistemas integrados de Datatech. A partir de su instalación consolidó la información de sus tres unidades de negocio, centralizó su oficina de sistemas y logró una gestión más eficiente de sus recursos y de la información. La Clínica Radiológica del Sur, de Cipolletti, y la Clínica de Imágenes, de Neuquén, comparten una única instalación del sistema.
 
 ## Implementación por fases en el Sanatorio de la Providencia
 
-Dividir el proyecto en fases permite que cada área aprenda el sistema a su turno y que los ajustes se hagan sobre un alcance acotado. El Sanatorio de la Providencia, de la Ciudad de Buenos Aires, dividió la puesta en marcha del sistema Datatech en dos fases. La primera fue de orden administrativo y la segunda incluía las operaciones médicas. El proyecto se llevó a cabo en forma conjunta entre personal del Sanatorio y de Datatech.
+Dividir el proyecto en fases permite que cada área aprenda el sistema a su turno y que los ajustes se hagan sobre un alcance acotado. El Sanatorio de la Providencia, de la Ciudad de Buenos Aires, trabaja con el sistema Datatech y dividió su puesta en marcha en dos fases. La primera fue de orden administrativo y la segunda incluía las operaciones médicas. El proyecto se llevó a cabo en forma conjunta entre personal del Sanatorio y de Datatech.
 
-Según lo publicado por Datatech, la primera fase se resolvió en un plazo de 6 meses, de acuerdo con los cronogramas realizados en forma conjunta con el cliente. Mientras se implementaba el sistema se elaboraron los manuales de operación y procedimientos. Después estaba prevista la capacitación para el uso de registros médicos, la administración de quirófanos y los trámites internos.
+La primera fase se resolvió en un plazo de 6 meses, de acuerdo con los cronogramas realizados en forma conjunta con el cliente. Mientras se implementaba el sistema se elaboraron los manuales de operación y procedimientos. La etapa siguiente incluía la capacitación en registros médicos, administración de quirófanos y trámites internos.
 
 Ese plazo corresponde a ese proyecto. Cada implementación depende de los módulos, de la cantidad de áreas y sedes y del tiempo que pueda dedicar el personal.
 
@@ -2774,7 +2779,7 @@ Ese plazo corresponde a ese proyecto. Cada implementación depende de los módul
 
 Conviene capacitar a cada área según su tarea antes de que opere con el sistema, y dejar por escrito los procedimientos para quienes se incorporen después.
 
-El Instituto Modelo de Cardiología, de Córdoba, pasó a administrarse con el sistema integrado de Datatech después de una intensa capacitación de su personal. En la clínica AMEBPBA, la historia clínica electrónica comenzó a usarse con los pacientes internados. Junto con ese paso, el departamento de enfermería, que recibió capacitación, la complementó con el registro de enfermería correspondiente.
+El Instituto Modelo de Cardiología, de Córdoba, se administra con el Sistema Integrado de Gestión Médico Administrativa de Datatech. Empezó a usarlo después de una intensa capacitación de su personal y optimizó con él las operaciones en todo el ámbito de la institución. La clínica AMEBPBA usa la historia clínica electrónica para sus pacientes internados, y el departamento de enfermería, que recibió capacitación, la complementa con el registro de enfermería correspondiente.
 
 La capacitación es uno de los servicios de Datatech, y su política de la calidad incluye la capacitación y formación de su propio personal.
 
@@ -2790,17 +2795,17 @@ Si la institución ya tiene un sistema, en el planeamiento se decide qué inform
 
 - Fijar una fecha de corte para operar con el sistema nuevo.
 
-Una migración también sirve para consolidar información. Instituto Dorrego S.A., de Rosario, cubría desde hacía años las operaciones del Sanatorio Rosendo García con el sistema integrado de Datatech en su versión gráfica. Para consolidar la información, decidió migrar también su sistema de medicina prepaga a esa versión. Según lo publicado, el cambio le daría mayor confiabilidad y estabilidad y sentaría las bases para expandir su oferta de servicios a otras localidades de la provincia de Santa Fe.
+Una migración también sirve para consolidar información. Instituto Dorrego S.A., de Rosario, cubre desde hace años las operaciones del Sanatorio Rosendo García con el sistema integrado de Datatech en su versión gráfica. Para consolidar la información, decidió migrar también su sistema de medicina prepaga a esa versión. Con el cambio obtuvo mayor confiabilidad y estabilidad y sentó las bases para expandir su oferta de servicios a otras localidades de la provincia de Santa Fe.
 
 ## Mantenimiento y adecuación después de la puesta en marcha
 
 Obras sociales, prepagas y organismos cambian sus sistemas y requisitos, y el sistema de gestión tiene que acompañarlos mientras se use.
 
-En 2017, Traditum programó un cambio en los sistemas de sus servidores centrales que afectaba la autorización en línea. Datatech adaptó sus sistemas, los probó en forma directa con Traditum y entregó los cambios en una actualización que debía estar instalada antes de la fecha del cambio. Para la autorización de prestaciones ambulatorias que Sancor Salud iba a iniciar por web service, Datatech desarrolló la interfaz correspondiente y la distribuyó con sus instructivos.
+El sistema se integra con Traditum para la validación en línea. En 2017, Traditum programó un cambio en los sistemas de sus servidores centrales que afectaba la autorización en línea. Datatech adaptó sus sistemas, los probó en forma directa con Traditum y entregó los cambios en una actualización que debía estar instalada antes de la fecha del cambio. Con Sancor Salud, los usuarios autorizan en línea las prestaciones ambulatorias por web service, en la misma modalidad que las demás autorizaciones en línea, mediante una interfaz que Datatech desarrolló y distribuyó con sus instructivos.
 
-Si la institución incorpora áreas o necesidades nuevas, Datatech puede desarrollar interfaces y módulos complementarios o diseñar aplicaciones especiales. IRAM certificó bajo la norma IRAM-ISO 9001:2015 el sistema de gestión de la calidad de Datatech, con alcance en la prestación de servicios de capacitación, implementación y soporte técnico de software para empresas de salud. El detalle está en la página de calidad.
+Si la institución incorpora áreas o necesidades nuevas, Datatech puede desarrollar interfaces y módulos complementarios o diseñar aplicaciones especiales. El sistema de gestión de la calidad de Datatech está certificado por IRAM bajo la norma IRAM-ISO 9001:2015, con alcance en la prestación de servicios de capacitación, implementación y soporte técnico de software para empresas de salud. El detalle está en la página de calidad.
 
-Para evaluar proveedores, vea cómo elegir un sistema de gestión para sanatorios, y para conocer los módulos de un HIS, qué es un sistema de gestión hospitalaria.
+Para evaluar proveedores, vea cómo elegir un sistema de gestión para sanatorios, y para conocer los módulos de un HIS, qué es un sistema de gestión hospitalaria. Para ver el sistema de Datatech antes de planificar la implementación, puede solicitar una demostración.
 
 ServiciosCasos de clientesHospitales y SanatoriosMedicina PrepagaIntegraciones
 
@@ -2823,29 +2828,29 @@ Preguntas frecuentes
 
 ###
 ### ¿Cuánto tarda implementar un sistema de gestión en un sanatorio?
-El plazo depende del alcance y se define en el planeamiento, con un cronograma para cada fase. Influyen los módulos, la cantidad de áreas y sedes y el tiempo que puede dedicar el personal. Como referencia, Datatech publicó que en el Sanatorio de la Providencia la primera fase, de orden administrativo, se resolvió en un plazo de 6 meses, según los cronogramas acordados con el cliente. Ese plazo no incluye la segunda fase, con las operaciones médicas, y no es un estándar para otros proyectos.
+El plazo depende del alcance y se define en el planeamiento, con un cronograma para cada fase. Pesan la cantidad de módulos a poner en marcha, las áreas y sedes involucradas y la disponibilidad del personal para el proyecto. Como referencia, en el Sanatorio de la Providencia la etapa administrativa de la puesta en marcha llevó 6 meses, en línea con el cronograma acordado con el cliente. Ese plazo no incluye la segunda fase, con las operaciones médicas, y no es un estándar para otros proyectos.
 
 ###
 ### ¿Se puede implementar un sistema de gestión por etapas?
-Sí, la puesta en marcha puede dividirse en fases. El Sanatorio de la Providencia, de la Ciudad de Buenos Aires, organizó su proyecto en una fase administrativa y otra que incluía las operaciones médicas, en forma conjunta entre su personal y el de Datatech. El software de Datatech para hospitales y sanatorios es modular, y los servicios de Datatech se pueden contratar en su totalidad o en las combinaciones que requiera cada cliente.
+Sí, la puesta en marcha puede dividirse en fases. El Sanatorio de la Providencia, de la Ciudad de Buenos Aires, organizó su proyecto en una fase administrativa y otra que incluía las operaciones médicas, en forma conjunta entre su personal y el de Datatech. Como el software de Datatech para hospitales y sanatorios es modular, la institución elige qué módulos incorpora, y servicios como la implementación, la capacitación y el mantenimiento pueden contratarse juntos o por separado.
 
 ###
 ### ¿Cómo se capacita al personal en el nuevo sistema?
-Conviene capacitar a cada área según su tarea y antes de que opere con el sistema. Datatech presta la capacitación como uno de sus servicios. El Instituto Modelo de Cardiología, de Córdoba, pasó a administrarse con el sistema integrado de Datatech después de una intensa capacitación de su personal. En el Sanatorio de la Providencia, los manuales de operación y procedimientos se elaboraron mientras se implementaba el sistema.
+Lo recomendable es que cada área reciba capacitación sobre sus propias tareas antes de empezar a trabajar con el sistema. Datatech presta la capacitación como uno de sus servicios. El personal del Instituto Modelo de Cardiología, de Córdoba, completó una intensa capacitación, y hoy la institución se gestiona con el sistema integrado de Datatech. En el Sanatorio de la Providencia, los manuales de operación y procedimientos se redactaron a la par de la puesta en marcha.
 
 ###
 ### ¿Se puede migrar desde otro sistema o desde una versión anterior sin perder información?
-Una migración puede planificarse para conservar la información necesaria, y el resultado depende del estado de los datos de origen y de los controles que se hagan. Conviene definir qué se traslada, depurar duplicados y verificar una migración de prueba con cada área antes del corte. Instituto Dorrego, de Rosario, que ya usaba la versión gráfica del sistema integrado de Datatech en el Sanatorio Rosendo García, decidió migrar también su sistema de medicina prepaga a esa versión para consolidar la información. Consulte con Datatech el alcance para su caso.
+Una migración puede planificarse para conservar la información necesaria, y el resultado depende del estado de los datos de origen y de los controles que se hagan. Conviene definir qué se traslada, depurar duplicados y verificar una migración de prueba con cada área antes del corte. Instituto Dorrego, de Rosario, que gestiona las operaciones del Sanatorio Rosendo García con la versión gráfica del sistema integrado de Datatech, llevó también a esa versión su sistema de medicina prepaga, con el objetivo de consolidar la información. Consulte con Datatech el alcance para su caso.
 
 ###
 ### ¿Qué pasa después de la puesta en marcha?
-Después de la puesta en marcha empieza la etapa de mantenimiento, con soporte técnico, actualizaciones y adecuaciones ante cambios en la operatoria o en los requisitos de financiadores y organismos. En 2017, Traditum programó un cambio en los sistemas de sus servidores centrales que afectaba la autorización en línea. Datatech adaptó sus sistemas, los probó en forma directa con Traditum y entregó los cambios en una actualización. Para necesidades nuevas, Datatech también desarrolla módulos complementarios e interfaces.
+Después de la puesta en marcha empieza la etapa de mantenimiento, en la que el proveedor da soporte técnico, entrega actualizaciones y adecua el sistema a los cambios de la institución, de los financiadores y de los organismos. Por ejemplo, ante el cambio que Traditum hizo en 2017 en sus servidores centrales, Datatech adaptó su interfaz de autorización en línea, la probó junto con Traditum y la entregó a sus usuarios en una actualización. Para necesidades nuevas, Datatech también desarrolla módulos complementarios e interfaces.
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
@@ -2951,9 +2956,11 @@ Datatech S.A. fue creada en 1978 y desde 1987 se dedica exclusivamente a brindar
 
 Su sistema para hospitales y sanatorios es modular y se adapta a las necesidades y posibilidades de cada institución, desde un centro médico con varios consultorios hasta un hospital con internación, ambulatorio y guardia. Incluye los módulos de la tabla, entre ellos la facturación de prestaciones y la liquidación de honorarios médicos. Minimiza el ingreso de datos, porque a partir de las solicitudes de prestaciones se van agregando los datos que forman la base de información.
 
-El sistema para laboratorios de análisis clínicos puede combinarse con otros módulos Datatech, y hay un sistema específico para centros de diagnóstico. En Rosario, Instituto Dorrego S.A. cubría las operaciones administrativas y operativas del Sanatorio Rosendo García, junto con sus registros médico-asistenciales, con el Sistema Integrado de Gestión Médico Administrativa de Datatech.
+El sistema para laboratorios de análisis clínicos puede combinarse con otros módulos Datatech, y hay un sistema específico para centros de diagnóstico. En Rosario, Instituto Dorrego S.A. cubre las operaciones administrativas y operativas del Sanatorio Rosendo García, junto con sus registros médico-asistenciales, con el Sistema Integrado de Gestión Médico Administrativa de Datatech.
 
 Datatech brinda servicios de capacitación, implementación, mantenimiento y desarrollo de interfaces, entre otros, que se pueden contratar en su totalidad o en las combinaciones que la institución necesite. La guía cómo implementar un sistema de gestión en salud amplía este tema.
+
+Para ver el sistema en funcionamiento antes de decidir, puede solicitar una demostración.
 
 Hospitales y SanatoriosHistoria clínica electrónicaTurnos web y autoadmisión
 
@@ -2976,7 +2983,7 @@ Preguntas frecuentes
 
 ###
 ### ¿Qué significa HIS?
-HIS es la sigla en inglés de Hospital Information System, que en castellano se traduce como sistema de información hospitalaria. En la Argentina también se lo llama sistema de gestión hospitalaria o sanatorial. Designa el software que integra la operatoria administrativa, clínica y económica de un hospital, sanatorio o clínica, desde la admisión del paciente hasta la facturación a obras sociales y prepagas.
+HIS significa Hospital Information System, es decir, sistema de información hospitalaria. Con esa sigla se designa el software que integra la operatoria administrativa, clínica y económica de un hospital, sanatorio o clínica, desde la admisión del paciente hasta la facturación a obras sociales y prepagas. En la Argentina se usan también los nombres sistema de gestión hospitalaria y sistema de gestión sanatorial.
 
 ###
 ### ¿Qué módulos debe tener un sistema de gestión hospitalaria?
@@ -2984,7 +2991,7 @@ Un HIS completo suele cubrir pacientes y agenda, registro clínico, facturación
 
 ###
 ### ¿Cuál es la diferencia entre un HIS y una historia clínica electrónica?
-La historia clínica electrónica es uno de los componentes de un HIS, no un sistema equivalente. La HCE guarda el registro médico del paciente, con consultas, internaciones, resultados de laboratorio y estudios. El HIS la contiene y además gestiona turnos, camas, facturación, honorarios y administración, de modo que lo registrado en la atención queda disponible para facturar.
+La historia clínica electrónica es una parte del HIS y no lo reemplaza. En ella se registran las consultas, internaciones, resultados de laboratorio y estudios de cada paciente. El HIS la contiene y además gestiona turnos, camas, facturación, honorarios y administración, de modo que lo registrado en la atención queda disponible para facturar.
 
 ###
 ### ¿Qué diferencia hay entre un HIS y un LIS?
@@ -2996,16 +3003,16 @@ Sí, siempre que sea modular y permita contratar los módulos que la institució
 
 ## ¿Quiere ver cómo funciona en su institución?
 
-Cuéntenos sobre su institución y le mostramos los módulos que necesita.
+Le mostramos el sistema con los circuitos y los módulos que usa su institución.
 
-Hablar con un especialista
+Solicitar una demostración
 (54-11) 4374-1002Llámenos
 
 ---
 
 URL: https://www.datatech.com.ar/trabaje-con-nosotros/
 Título: Trabaje con nosotros · Datatech
-Resumen: Súmese al equipo de desarrollo de software para la salud de Datatech. Buscamos analistas programadores SQL, estudiantes o graduados junior de informática.
+Resumen: Deje sus datos y su CV en Datatech para futuras búsquedas en el desarrollo de software de gestión para sanatorios, clínicas, laboratorios y prepagas.
 
 - Inicio
 - La empresa
@@ -3015,27 +3022,13 @@ La empresa
 
 # Trabaje con nosotros en el desarrollo de software para la salud
 
-Más de 600 establecimientos asistenciales utilizan sistemas Datatech para la totalidad de su operatoria diaria. Buscamos personas que quieran sumarse a un equipo permanente de desarrollo de software.
+Más de 600 establecimientos asistenciales utilizan sistemas Datatech para la totalidad de su operatoria diaria. Si le interesa sumarse al equipo que desarrolla ese software, puede enviarnos su postulación espontánea.
 
-## Analista Programador SQL
+## No hay búsquedas abiertas en este momento
 
-Desarrollo
+Complete el formulario con sus datos y un enlace a su CV o perfil de LinkedIn. Recursos Humanos tendrá en cuenta su postulación cuando se abra una nueva búsqueda.
 
-Buscamos estudiantes de carreras informáticas o graduados de nivel junior para formar parte de un equipo permanente de desarrollo de software.
-
-### Qué buscamos
-
-- Sólidos conocimientos de SQL
-- Preferentemente, lenguajes de programación cliente/servidor o 4GL
-- Perfil dinámico y proactivo, con capacidad de trabajo en equipo
-- Compromiso con la tarea, flexibilidad y buenas relaciones interpersonales
-
-### Qué ofrecemos
-
-- Condiciones de contratación acordes con los conocimientos
-- Capacitación en tecnologías propietarias
-- Posibilidades de desarrollo profesional
-- Muy buen ambiente laboral
+CapacitaciónLa política de la calidad de Datatech pone la máxima atención y recursos en la capacitación y formación de su gente.
 
 Nombre
 
@@ -3049,4 +3042,4 @@ Enlace a su CV o perfil de LinkedIn
 
 Mensaje (incluya su remuneración pretendida)
 
-Enviar postulaciónSus datos se usan solo para evaluar su postulación.
+Enviar postulaciónSus datos se usan solo para evaluar su postulación en futuras búsquedas.

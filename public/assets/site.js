@@ -59,6 +59,17 @@ document.addEventListener('DOMContentLoaded', () => {
     io.observe(flow);
   }
 
+  // Links to /contacto/#demo preselect the demo option in the contact form.
+  const motivo = document.getElementById('c-motivo');
+  const preselect = () => {
+    if (!motivo || location.hash !== '#demo') return;
+    const opt = [...motivo.options].find((o) => /demostraci/i.test(o.text));
+    if (opt) motivo.value = opt.value || opt.text;
+    document.getElementById('c-nombre')?.focus({ preventScroll: true });
+  };
+  preselect();
+  window.addEventListener('hashchange', preselect);
+
   // Forms.
   document.querySelectorAll('form[data-form]').forEach((form) => {
     const status = form.querySelector('[data-status]');
