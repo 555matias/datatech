@@ -1,0 +1,10 @@
+# Old datatech.com.ar (ASP) addresses, so bookmarks and search results keep working.
+/index.asp                     /                        301
+/laempresa.asp                 /empresa/                301
+/productos.asp                 /soluciones/             301
+/producto_detalle.asp          /soluciones/             301
+/servicios.asp                 /servicios/              301
+/novedades.asp                 /                        301
+/novedades_detalle.asp         /                        301
+/contactenos.asp               /contacto/               301
+/trabaje.asp                   /trabaje-con-nosotros/   301

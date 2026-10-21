@@ -1,0 +1,21 @@
+// datatech on Cloudflare Workers (static assets only). Build with `node build.mjs`, then deploy with `npx wrangler deploy`.
+//
+// public/ is the site; nothing outside it is uploaded.
+// Preview lives at datatech.matiasd.com. When the real domain moves over, add
+// datatech.com.ar and www.datatech.com.ar here (see README).
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "datatech",
+  "compatibility_date": "2026-08-31",
+  "observability": { "enabled": true },
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [
+    { "pattern": "datatech.matiasd.com", "custom_domain": true }
+  ],
+  "assets": {
+    "directory": "./public",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

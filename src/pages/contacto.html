@@ -1,0 +1,45 @@
+<!--{"path": "/contacto/", "title": "Contacto · Datatech", "description": "Contáctese con Datatech S.A. Av. Córdoba 1184, 5º piso, Ciudad Autónoma de Buenos Aires. Teléfono (54-11) 4374-1002.", "nav": "contacto", "priority": "0.8"}-->
+<section class="page-hero page-hero-plain">
+  <div class="container">
+    <ol class="crumbs" aria-label="Ubicación"><li><a href="/">Inicio</a></li><li aria-current="page">Contacto</li></ol>
+    <div class="page-hero-copy">
+      <span class="eyebrow"><img src="/assets/brand/datatech-isotipo.svg" alt="" width="10" height="15">Contacto</span>
+      <h1 class="h1">Hablemos sobre <b>su institución</b></h1>
+      <p class="lead">Escríbanos y un especialista le responderá a la brevedad. Si ya es cliente y necesita asistencia técnica, llame a Soporte Técnico.</p>
+    </div>
+  </div>
+</section>
+
+<section aria-label="Formulario de contacto">
+  <div class="container contact-grid">
+    <form class="form" data-form data-done-title="¡Gracias! Recibimos su consulta." data-done-text="Un especialista de Datatech se comunicará con usted a la brevedad." novalidate>
+      <input type="hidden" name="subject" value="Consulta desde datatech.com.ar">
+      <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <div class="field"><label for="c-nombre">Nombre</label><input id="c-nombre" name="nombre" autocomplete="given-name" required></div>
+      <div class="field"><label for="c-apellido">Apellido</label><input id="c-apellido" name="apellido" autocomplete="family-name" required></div>
+      <div class="field"><label for="c-email">E-mail</label><input id="c-email" name="email" type="email" autocomplete="email" required></div>
+      <div class="field"><label for="c-tel">Teléfono <small>(opcional)</small></label><input id="c-tel" name="telefono" type="tel" autocomplete="tel"></div>
+      <div class="field"><label for="c-inst">Institución</label><input id="c-inst" name="institucion" autocomplete="organization" required></div>
+      <div class="field"><label for="c-tipo">Tipo de institución</label>
+        <select id="c-tipo" name="tipo_de_institucion" required>
+          <option value="" selected disabled>Seleccione una opción</option>
+          <option>Hospital o sanatorio</option>
+          <option>Centro asistencial o policonsultorio</option>
+          <option>Laboratorio de análisis clínicos</option>
+          <option>Centro de diagnóstico</option>
+          <option>Empresa de medicina prepaga</option>
+          <option>Otra</option>
+        </select>
+      </div>
+      <div class="field full"><label for="c-msg">Consulta</label><textarea id="c-msg" name="mensaje" required placeholder="Cuéntenos qué necesita"></textarea></div>
+      <div class="form-foot"><button class="btn" type="submit">Enviar consulta</button><p>Usamos sus datos solo para responder esta consulta.</p></div>
+      <p class="form-status" data-status role="alert"></p>
+    </form>
+    <aside class="info-card" aria-label="Datos de contacto">
+      <h2>Datatech S.A.</h2>
+      <div class="info-row"><span>Dirección</span><a href="{{maps}}" rel="noopener">{{address}}<br>{{city}}</a></div>
+      <div class="info-row"><span>Teléfono</span><a href="{{phoneHref}}">{{phone}}</a></div>
+      <div class="info-row"><span>¿Ya es cliente?</span><p>Para asistencia técnica, comuníquese con Soporte Técnico al {{phone}} o ingrese al <a class="inline" href="{{clientArea}}" rel="noopener">Área de clientes</a>.</p></div>
+    </aside>
+  </div>
+</section>
