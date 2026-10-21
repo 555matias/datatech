@@ -448,3 +448,7 @@ body.menu-open .site-header::before { background: var(--white); }
 .groups-tight h3 { margin-bottom: 12px; font: 600 17px/1.3 var(--f-display); }
 
 .info-row a.inline, .info-row p a { text-decoration: underline; }
+
+/* Per-photo focal points, so faces and screens survive the crop. */
+img.focus-75 { object-position: 75% 50%; }
+img.focus-80 { object-position: 80% 50%; }
