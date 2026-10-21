@@ -837,7 +837,7 @@ Si el laboratorio funciona dentro de una institución con internación, el módu
 
 La Jornada de Actualización para Laboratorios de Análisis Clínicos abordó la gestión del laboratorio a partir del planteo de una usuaria del sistema.
 
-La jornada se realizó el 29 de mayo en el aula de Corporación General San Martín. La Dra. María Eugenia García, usuaria exigente del sistema, planteó desafíos como error 0 en el ingreso de órdenes, débito 0 y eficiencia en la gestión.
+La jornada se realizó el 29 de mayo en el aula de Corporación General San Martín. Una usuaria exigente del sistema planteó desafíos como error 0 en el ingreso de órdenes, débito 0 y eficiencia en la gestión.
 
 En la jornada también se expusieron casos de éxito y una mirada gerencial sobre cómo abordar la gestión del laboratorio.
 
@@ -1791,7 +1791,7 @@ La Clínica AMEBPBA comenzó a usar la historia clínica electrónica de Datatec
 
 Ver el caso de la Clínica AMEBPBA
 
-Junto con la puesta en marcha de la historia clínica electrónica para internados, el departamento de enfermería de la clínica complementó ese uso con el registro de enfermería correspondiente. La capacitación del equipo de enfermería estuvo a cargo de la Lic. María Rosa López.
+Junto con la puesta en marcha de la historia clínica electrónica para internados, el departamento de enfermería de la clínica complementó ese uso con el registro de enfermería correspondiente. El equipo de enfermería recibió capacitación para hacerlo.
 
 En el sistema Datatech, la internación se gestiona junto con el manejo de camas y la administración de pisos. La historia clínica de cada paciente registra sus internaciones junto con sus consultas médicas, protocolos de laboratorio y estudios diagnósticos.
 
